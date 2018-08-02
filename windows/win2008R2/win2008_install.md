@@ -68,7 +68,11 @@
 
 ![](/windows/win2008R2/base/image/vmware-15.png)
 
-### 15. 在
+### 15. 在`Specify Disk File(指定虚拟文件名)`中,保持默认配置
+
+![](/windows/win2008R2/base/image/vmware-16.png)
+
+
 
 
 
