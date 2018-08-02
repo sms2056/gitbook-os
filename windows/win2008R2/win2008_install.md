@@ -149,6 +149,10 @@
 
 ![](/windows/win2008R2/base/image/r2install-14.png)
 
+![](/windows/win2008R2/base/image/r2install-15.png)
+
+
+
 ###### 15. 设置密码成功, 成功进入WIndows 2008 R2
 
 
