@@ -48,3 +48,9 @@
 
 ![](/windows/win2008R2/base/image/vmware-10.png)
 
+### 10. 在`Network Type(网络类型)`中选择默认类型,下一步
+
+![](/windows/win2008R2/base/image/vmware-11.png)
+
+
+
