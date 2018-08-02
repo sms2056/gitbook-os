@@ -12,7 +12,7 @@
 
 ## 三. 实验步骤
 
-### 0x01 配置虚拟机
+### 0x01 配置windows 2008 R2 虚拟机环境
 ###### 1. 打开虚拟机,点击`Create a New Virtual Machine`, 下一步.
 
 ![](/windows/win2008R2/base/image/vmware-1.png)
