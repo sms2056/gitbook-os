@@ -93,8 +93,6 @@
 
 ![](/windows/win2008R2/base/image/r2res-15.png)
 
-
-
 ### 方法二:
 
 ## 六. 修改计算机IP地址
