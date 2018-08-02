@@ -52,5 +52,9 @@
 
 ![](/windows/win2008R2/base/image/vmware-11.png)
 
+### 11. 在'I/O Controller type(I/O控制类型)'中保持默认,下一步
+
+![](/windows/win2008R2/base/image/vmware-12.png)
+
 
 
