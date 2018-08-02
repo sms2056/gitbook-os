@@ -91,7 +91,7 @@
 
 ![](/windows/win2008R2/base/image/vmware-20.png)
 
-##### 3. 在
+##### 3. 点击Vmware软件中的`Start up this guest operating system(启动虚拟机系统)`
 
 ![](/windows/win2008R2/base/image/vmware-21.png)
 
