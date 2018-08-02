@@ -16,3 +16,7 @@
 
 ![](/windows/win2008R2/base/image/r2res-1.png)
 
+###### 2. 
+
+![](/windows/win2008R2/base/image/r2res-2.png)
+
