@@ -107,11 +107,10 @@
 
 ###### 1. 
 
-![](/windows/win2008R2/base/image/r2res-17.png)
-
+![](/windows/win2008R2/base/image/r2res-19.png)
 ![](/windows/win2008R2/base/image/r2res-18.png)
 
-
+![](/windows/win2008R2/base/image/r2res-19.png)
 
 
 
