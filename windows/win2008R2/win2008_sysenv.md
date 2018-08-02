@@ -117,7 +117,7 @@
 
 ![](/windows/win2008R2/base/image/r2res-21.png)
 
-###### 3. 
+###### 3. 双击`Internet 协议版本 4 (TCP/IPv4)`,在弹出的选项卡中,分别对`使用下面的IP地址`和`使用下面的DNS服务器地址`进行配置
 
 ![](/windows/win2008R2/base/image/r2res-22.png)
 
