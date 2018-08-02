@@ -60,4 +60,8 @@
 
 ![](/windows/win2008R2/base/image/vmware-13.png)
 
+# 13. 在`Select a Disk(硬盘存储方式)`中保持默认, 下一步
+
+![](/windows/win2008R2/base/image/vmware-14.png)
+
 
