@@ -105,11 +105,19 @@
 
 ### 方法一
 
-###### 1. 
+###### 1. 点击桌面右下角的`网络图标`,选择`打开网络和共享中心`
 
 ![](/windows/win2008R2/base/image/r2res-18.png)
 
 ![](/windows/win2008R2/base/image/r2res-19.png)
+
+![](/windows/win2008R2/base/image/r2res-20.png)
+
+
+
+
+
+
 
 
 
