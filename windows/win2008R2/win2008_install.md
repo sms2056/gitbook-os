@@ -56,4 +56,8 @@
 
 ![](/windows/win2008R2/base/image/vmware-12.png)
 
-#
+# 12. 在`Select a Disk Type(硬盘接口类型)`中保持`默认`选项,下一步
+
+![](/windows/win2008R2/base/image/vmware-13.png)
+
+
