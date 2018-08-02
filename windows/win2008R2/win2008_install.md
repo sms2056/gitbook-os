@@ -20,11 +20,11 @@
 
 ![](/windows/win2008R2/base/image/vmware-3.png)
 
-### 3. 在`hardware compatibility(虚拟机系统兼容性)`中保持默认选项,即本Vmware版本,下一步
+### 3. 在`hardware compatibility(虚拟机系统兼容性)`中保持默认选项,即本Vmware版本, 下一步
 
 ![](/windows/win2008R2/base/image/vmware-4.png)
 
-### 4. 在`Guest operating System install(客户操作系统安装)`中选择`I will install the operating system later(我将稍后安装操作系统)`
+### 4. 在`Guest operating System install(客户操作系统安装)`中选择`I will install the operating system later(我将稍后安装操作系统)`, 下一步
 
 ![](/windows/win2008R2/base/image/vmware-5.png)
 
