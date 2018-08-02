@@ -16,11 +16,11 @@
 
 ![](/windows/win2008R2/base/image/r2res-1.png)
 
-###### 2. 根据自己的习惯,修改屏幕的分辨率,而显示器多用于多个显示器间切换等
+###### 2. 根据自己的习惯,修改屏幕的`分辨率`,而`显示器`多用于多个显示器间切换等
 
 ![](/windows/win2008R2/base/image/r2res-2.png)
 
-###### 3. 
+###### 3. 若在
 
 ![](/windows/win2008R2/base/image/r2res-3.png)
 
