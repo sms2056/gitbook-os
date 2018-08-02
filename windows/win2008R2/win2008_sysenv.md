@@ -113,7 +113,13 @@
 
 ![](/windows/win2008R2/base/image/r2res-20.png)
 
-###### 1. 在`网络和共享中心`中的`查看活动网络`下,点击`本地连接`
+###### 2. 在`网络和共享中心`中的`查看活动网络`下,点击`本地连接`
+
+![](/windows/win2008R2/base/image/r2res-21.png)
+
+###### 3. 
+
+![](/windows/win2008R2/base/image/r2res-22.png)
 
 
 
