@@ -72,7 +72,11 @@
 
 ![](/windows/win2008R2/base/image/vmware-16.png)
 
-###### 16. 在
+###### 16. 在`Ready to Create Virtual Machine(查看虚拟机配置)`中,检查所配虚拟机有没有问题,没有问题点击`Finish(完成)`
+
+![](/windows/win2008R2/base/image/vmware-17.png)
+
+
 
 
 
