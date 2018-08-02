@@ -99,7 +99,10 @@
 
 
 
-#### 4. 进去
+#### 4. 在Windows 2008 R2安装界面中,点击下一步
+
+![](/windows/win2008R2/base/image/r2install-1.png)
+
 
 
 
