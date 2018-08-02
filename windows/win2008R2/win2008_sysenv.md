@@ -127,7 +127,7 @@
 
 ![](/windows/win2008R2/base/image/r2res-22.png)
 
-###### 2. 
+###### 2. 在弹出的`服务器管理`选项卡中,找到`服务器摘要`,点击该栏中的`查看网络连接`
 
 ![](/windows/win2008R2/base/image/r2res-24.png)
 
