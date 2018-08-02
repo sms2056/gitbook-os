@@ -28,6 +28,8 @@
 
 ![](/windows/win2008R2/base/image/vmware-5.png)
 
-### 5. 在
+### 5. 在`Guest operating system(客户操作系统)`向导中选择`1. Microsoft WIndows(微软Windows)`,然后在`version(版本)`中选择`Windows Server 2008 R2 x64`
+
+![](/windows/win2008R2/base/image/vmware-6.png)
 
 
