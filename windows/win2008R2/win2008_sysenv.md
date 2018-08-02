@@ -57,7 +57,7 @@
 
 ![](/windows/win2008R2/base/image/r2res-6.png)
 
-###### 2. 
+###### 2. 在`桌面图标`组里可以选择在桌面中显示的相应的桌面图标(快捷方式)
 
 ![](/windows/win2008R2/base/image/r2res-7.png)
 
