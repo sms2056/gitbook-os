@@ -56,17 +56,19 @@
 
 ![](/windows/win2008R2/base/image/vmware-12.png)
 
-# 12. 在`Select a Disk Type(硬盘接口类型)`中保持`默认`选项,下一步
+### 12. 在`Select a Disk Type(硬盘接口类型)`中保持`默认`选项,下一步
 
 ![](/windows/win2008R2/base/image/vmware-13.png)
 
-# 13. 在`Select a Disk(硬盘存储方式)`中保持默认, 下一步
+### 13. 在`Select a Disk(硬盘存储方式)`中保持默认, 下一步
 
 ![](/windows/win2008R2/base/image/vmware-14.png)
 
-# 14. 在`Specify Disk Capacity(指定磁盘容量)`中,`Maximum disk size(最大磁盘容量)`中填写`100GB`,其他保持默认
+### 14. 在`Specify Disk Capacity(指定磁盘容量)`中,`Maximum disk size(最大磁盘容量)`中填写`100GB`,其他保持默认
 
 ![](/windows/win2008R2/base/image/vmware-15.png)
+
+### 15. 在
 
 
 
