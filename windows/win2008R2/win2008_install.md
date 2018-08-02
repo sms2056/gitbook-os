@@ -139,6 +139,10 @@
 
 ![](/windows/win2008R2/base/image/r2install-11.png)
 
+###### 13. 系统开始正常安装
+
+![](/windows/win2008R2/base/image/r2install-12.png)
+
 
 
 
