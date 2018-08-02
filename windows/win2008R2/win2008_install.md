@@ -36,4 +36,9 @@
 
 ![](/windows/win2008R2/base/image/vmware-7.png)
 
+### 7. 在`firmware Type(固件类型)`中保持默认,下一步
+
+![](/windows/win2008R2/base/image/vmware-8.png)
+
+
 
