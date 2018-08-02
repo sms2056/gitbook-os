@@ -89,6 +89,8 @@
 
 ###### 2. 在`Virtual Machine Settings(虚拟机配置)`中点击`Hardware(硬件)`选项卡,然后选择其中的`CD/DVD`,在右侧点击`Use ISO image(使用光盘镜像)`,在下面的选项中,点击`Browse(浏览)`,选择您所存放的Windows 2008 R2 镜像文件,然后点击`Save(保存)`按钮
 
+![](/windows/win2008R2/base/image/vmware-20.png)
+
 
 
 
