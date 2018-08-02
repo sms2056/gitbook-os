@@ -57,6 +57,10 @@
 
 ![](/windows/win2008R2/base/image/r2res-6.png)
 
+###### 2. 
+
+![](/windows/win2008R2/base/image/r2res-7.png)
+
 
 
 ## 五. 修改计算机名称
