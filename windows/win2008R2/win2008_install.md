@@ -85,6 +85,8 @@
 
 ###### 1. 点击`VM(虚拟机)`,弹出下拉菜单,选择`settings(配置)`
 
+![](/windows/win2008R2/base/image/vmware-19.png)
+
 
 
 
