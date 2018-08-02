@@ -75,9 +75,15 @@
 
 ![](/windows/win2008R2/base/image/r2res-10.png)
 
-###### 3. 在弹出的`系统属性`中,直接修改`计算机描述`,也就是计算机名称,点击`应用`,`确认`
+###### 3. 在弹出的`系统属性`下的`计算机名`选项卡中,点击`更改`按钮
 
 ![](/windows/win2008R2/base/image/r2res-11.png)
+
+###### 4. 
+
+![](/windows/win2008R2/base/image/r2res-12.png)
+
+
 
 
 
