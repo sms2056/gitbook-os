@@ -119,9 +119,20 @@
 
 ![](/windows/win2008R2/base/image/r2install-5.png)
 
-###### 9. 
+###### 9. 在`您想将WIndows 安装在何处`中选择 `驱动器选项`
 
 ![](/windows/win2008R2/base/image/r2install-6.png)
+
+###### 10. 在`驱动器选项`中点击`新建`,大小填写`40960`, `1024MB * 4 *10 = 40GB` , 点击`应用`, 
+
+![](/windows/win2008R2/base/image/r2install-7.png)
+
+![](/windows/win2008R2/base/image/r2install-8.png)
+
+
+
+
+
 
 
 
