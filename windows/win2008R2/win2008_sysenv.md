@@ -9,3 +9,10 @@
 |----|----|
 |Vmware| 14 |
 |Windows server 2008 R2|R2 standard,enterprise,datacenter 617598|
+
+## 三. 修改屏幕分辨率
+
+###### 1. 在桌面环境,鼠标右键,点击`屏幕分辨率`
+
+![](/windows/win2008R2/base/image/r2res-1.png)
+
