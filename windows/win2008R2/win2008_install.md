@@ -103,8 +103,13 @@
 
 ![](/windows/win2008R2/base/image/r2install-1.png)
 
-######
+###### 5. 点击`现在安装`,进入下一步
 
+![](/windows/win2008R2/base/image/r2install-2.png)
+
+###### 6. 进行
+
+![](/windows/win2008R2/base/image/r2install-3.png)
 
 
 
