@@ -61,4 +61,10 @@
 
 ## 八. Windows防火墙开启与关闭
 
+## 九. Windows更新设置
+
+## 十. Windows电源选项
+
+## 十一. windows双屏设置
+
 
