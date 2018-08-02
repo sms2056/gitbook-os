@@ -20,3 +20,9 @@
 
 ![](/windows/win2008R2/base/image/r2res-2.png)
 
+###### 3. 
+
+![](/windows/win2008R2/base/image/r2res-3.png)
+
+![](/windows/win2008R2/base/image/r2res-4.png)
+
