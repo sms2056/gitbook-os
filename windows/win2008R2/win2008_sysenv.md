@@ -79,9 +79,13 @@
 
 ![](/windows/win2008R2/base/image/r2res-11.png)
 
-###### 4. 
+###### 4. `计算机名/域更改`选项卡中,可以对`计算机名`进行修改,修改完成后,点击确认
 
 ![](/windows/win2008R2/base/image/r2res-12.png)
+
+###### 5. 系统提示修改完计算机名必须重启,点击确定,然后重新启动系统
+
+![](/windows/win2008R2/base/image/r2res-13.png)
 
 
 
