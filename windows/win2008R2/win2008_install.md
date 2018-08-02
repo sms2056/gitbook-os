@@ -135,6 +135,10 @@
 
 ![](/windows/win2008R2/base/image/r2install-10.png)
 
+###### 12. 点击刚刚创建的`39.9GB`的主分区,用于安装Windows 2008 R2,点击下一步
+
+![](/windows/win2008R2/base/image/r2install-11.png)
+
 
 
 
