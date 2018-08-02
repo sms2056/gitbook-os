@@ -34,6 +34,6 @@
 
 ### 6. 在`Name the Virtual Machine(虚拟机命名)`中,对所创建的虚拟机进行`命名(Name)`和`虚拟机文件存储位置配置(Location)`,在本实验中,使用默认配置
 
-![](/windows/win2008R2/base/image/vmware-8.png)
+![](/windows/win2008R2/base/image/vmware-7.png)
 
 
