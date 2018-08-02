@@ -107,9 +107,14 @@
 
 ![](/windows/win2008R2/base/image/r2install-2.png)
 
-###### 6. 进行
+###### 6. 对所用服务进行选择,这里选择`Windows Server 2008 R2 Enterprise(完全安装)`, 下一步
 
 ![](/windows/win2008R2/base/image/r2install-3.png)
+
+###### 7. 接受`许可`, 点击下一步
+
+![](/windows/win2008R2/base/image/r2install-4.png)
+
 
 
 
