@@ -136,8 +136,6 @@
 ![](/windows/win2008R2/base/image/r2res-25.png)
 
 
-
-
 ## 七. 设置代理服务器上网
 
 ## 八. IE浏览器增强安全设置
