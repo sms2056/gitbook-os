@@ -45,5 +45,11 @@
 
 ![](/windows/win2008R2/base/image/users-4.png)
 
+###### 5. 现在添加账号,在右侧栏中单击鼠标右键,选择`新用户`
+
+![](/windows/win2008R2/base/image/users-5.png)
+
+
+
 
 
