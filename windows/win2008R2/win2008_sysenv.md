@@ -71,6 +71,22 @@
 
 ![](/windows/win2008R2/base/image/r2res-9.png)
 
+###### 2. 在弹出的`系统`选项卡中,找到`计算机名称,域和工作组设置`选项栏,点击更改设置
+
+![](/windows/win2008R2/base/image/r2res-10.png)
+
+###### 3. 
+
+![](/windows/win2008R2/base/image/r2res-11.png)
+
+
+
+
+
+
+
+
+
 
 
 ### 方法二:
