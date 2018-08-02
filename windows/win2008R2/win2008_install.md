@@ -60,19 +60,19 @@
 
 ![](/windows/win2008R2/base/image/vmware-13.png)
 
-### 13. 在`Select a Disk(硬盘存储方式)`中保持默认, 下一步
+###### 13. 在`Select a Disk(硬盘存储方式)`中保持默认, 下一步
 
 ![](/windows/win2008R2/base/image/vmware-14.png)
 
-### 14. 在`Specify Disk Capacity(指定磁盘容量)`中,`Maximum disk size(最大磁盘容量)`中填写`100GB`,其他保持默认, 下一步
+###### 14. 在`Specify Disk Capacity(指定磁盘容量)`中,`Maximum disk size(最大磁盘容量)`中填写`100GB`,其他保持默认, 下一步
 
 ![](/windows/win2008R2/base/image/vmware-15.png)
 
-### 15. 在`Specify Disk File(指定虚拟文件名)`中,保持默认配置 下一步
+###### 15. 在`Specify Disk File(指定虚拟文件名)`中,保持默认配置 下一步
 
 ![](/windows/win2008R2/base/image/vmware-16.png)
 
-### 16. 在
+###### 16. 在
 
 
 
