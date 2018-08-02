@@ -76,6 +76,11 @@
 
 ![](/windows/win2008R2/base/image/vmware-17.png)
 
+###### 17. 虚拟配置完成,图下图
+
+![](/windows/win2008R2/base/image/vmware-17.png)
+
+
 
 
 
