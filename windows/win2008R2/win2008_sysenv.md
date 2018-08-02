@@ -51,3 +51,9 @@
 
 ![](/windows/win2008R2/base/image/r2res-5.png)
 
+## 四. 修改计算机名称
+
+## 五. 修改计算机IP地址
+
+
+
