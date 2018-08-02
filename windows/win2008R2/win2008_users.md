@@ -49,6 +49,14 @@
 
 ![](/windows/win2008R2/base/image/users-5.png)
 
+###### 6. 在`新用户`选项卡中填入相关配置,点击创建
+
+![](/windows/win2008R2/base/image/users-6.png)
+
+###### 7. 用户创建成功
+
+![](/windows/win2008R2/base/image/users-7.png)
+
 
 
 
