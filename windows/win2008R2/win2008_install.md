@@ -147,6 +147,23 @@
 
 ![](/windows/win2008R2/base/image/r2install-13.png)
 
+![](/windows/win2008R2/base/image/r2install-14.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
