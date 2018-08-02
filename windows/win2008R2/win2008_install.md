@@ -44,5 +44,7 @@
 
 ![](/windows/win2008R2/base/image/vmware-9.png)
 
+### 9. 在`Memery for the Virtual Machine(虚拟机内存配置)`中填写虚拟系统所需内存数量,填写2048,下一步
 
+![](/windows/win2008R2/base/image/vmware-10.png)
 
