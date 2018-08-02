@@ -143,7 +143,9 @@
 
 ![](/windows/win2008R2/base/image/r2install-12.png)
 
-###### 14
+###### 14. 第一次正常登录时,要求修改管理员密码
+
+![](/windows/win2008R2/base/image/r2install-13.png)
 
 
 
