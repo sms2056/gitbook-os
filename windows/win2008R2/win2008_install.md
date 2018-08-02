@@ -115,9 +115,13 @@
 
 ![](/windows/win2008R2/base/image/r2install-4.png)
 
-###### 8. 
+###### 8. 在`您想进行何种类型的安装`中选择 `自定义(高级)`
 
 ![](/windows/win2008R2/base/image/r2install-5.png)
+
+###### 9. 
+
+![](/windows/win2008R2/base/image/r2install-6.png)
 
 
 
