@@ -57,6 +57,12 @@
 
 ![](/windows/win2008R2/base/image/users-7.png)
 
+###### 8. 密码重置,右键点击需要修改的用户账号
+
+![](/windows/win2008R2/base/image/users-8.png)
+
+
+
 
 
 
