@@ -24,5 +24,11 @@
 
 ![](/windows/win2008R2/base/image/vmware-4.png)
 
+### 4. 在`Guest operating System install(客户操作系统安装)`中选择`I will install the operating system later(我将稍后安装操作系统)`
+
+![](/windows/win2008R2/base/image/vmware-5.png)
+
+
+
 
 
