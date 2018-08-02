@@ -4,6 +4,6 @@
 
 |软件|版本|
 |----|----|
-|Vmware||
-|Windows server 2008||
+|Vmware Workstation| 12以上 |
+|Windows server 2008| R2 standard,enterprise,datacenter|
 
