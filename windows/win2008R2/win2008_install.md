@@ -12,5 +12,8 @@
 
 ## 三. 实验步骤
 
-### 1. 打开虚拟机
+### 1. 打开虚拟机,点击`Create a New Virtual Machine`
+![](/windows/win2008R2/base/image/vmware-1.png)
+
+### 2. 在'Virtual Machine Configuration'向导中选择`Custom(advanced)`
 
