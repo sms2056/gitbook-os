@@ -80,7 +80,7 @@
 
 ![](/windows/win2008R2/base/image/vmware-18.png)
 
-
+###### 18. 开始在虚拟机中安装windows 2008 R2
 
 
 
