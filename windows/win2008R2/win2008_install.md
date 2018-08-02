@@ -129,6 +129,13 @@
 
 ![](/windows/win2008R2/base/image/r2install-8.png)
 
+###### 11. 对剩下的未分配空间进行全部分配,操作步骤如第10步
+
+![](/windows/win2008R2/base/image/r2install-9.png)
+
+![](/windows/win2008R2/base/image/r2install-10.png)
+
+
 
 
 
