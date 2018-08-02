@@ -41,3 +41,9 @@
 
 ![](/windows/win2008R2/base/image/users-3.png)
 
+###### 4. 双击`用户`,右侧栏就可以看到系统内置账号
+
+![](/windows/win2008R2/base/image/users-4.png)
+
+
+
