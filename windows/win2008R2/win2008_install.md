@@ -64,7 +64,7 @@
 
 ![](/windows/win2008R2/base/image/vmware-14.png)
 
-### 14. 在`Specify Disk Capacity(指定磁盘容量)`中,`Maximum disk size(最大磁盘容量)`中填写`100GB`,其他保持默认
+### 14. 在`Specify Disk Capacity(指定磁盘容量)`中,`Maximum disk size(最大磁盘容量)`中填写`100GB`,其他保持默认, 下一步
 
 ![](/windows/win2008R2/base/image/vmware-15.png)
 
