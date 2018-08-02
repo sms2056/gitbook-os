@@ -81,6 +81,8 @@
 
 ![](/windows/win2008R2/base/image/vmware-18.png)
 
+### 0x02 在虚拟环境中安装windows 2008 R2
+
 ###### 18. 开始在虚拟机中安装windows 2008 R2
 
 
