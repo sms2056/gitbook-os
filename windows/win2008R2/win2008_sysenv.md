@@ -20,9 +20,11 @@
 
 ![](/windows/win2008R2/base/image/r2res-2.png)
 
-###### 3. 若在
+###### 3. 若在在常规设置中没有想添加的,可以点击高级设置
 
 ![](/windows/win2008R2/base/image/r2res-3.png)
+
+###### 4. 高级设置中的`适配器`选项卡,主要用于显示显示器的相关信息,以及在相应的驱动下,所支持的分辨率 
 
 ![](/windows/win2008R2/base/image/r2res-4.png)
 
