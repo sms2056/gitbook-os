@@ -91,7 +91,7 @@
 
 ![](/windows/win2008R2/base/image/vmware-20.png)
 
-##### 3. 点击Vmware软件中的`Start up this guest operating system(启动虚拟机系统)`,进入windows 2008 R2 系统安装界面
+###### 3. 点击Vmware软件中的`Start up this guest operating system(启动虚拟机系统)`,进入windows 2008 R2 系统安装界面
 
 ![](/windows/win2008R2/base/image/vmware-21.png)
 
@@ -99,9 +99,11 @@
 
 
 
-#### 4. 在Windows 2008 R2安装界面中,点击下一步
+###### 4. 在Windows 2008 R2安装界面中,点击下一步
 
 ![](/windows/win2008R2/base/image/r2install-1.png)
+
+######
 
 
 
