@@ -40,5 +40,7 @@
 
 ![](/windows/win2008R2/base/image/vmware-8.png)
 
-### 8. 在`Processor configuration(处理器配置)`中`Number of process(处理器个数)` 选择 2, `Number of cores per processor(每个处理器的内核数)`选择 2
+### 8. 在`Processor configuration(处理器配置)`中`Number of process(处理器个数)` 选择 2, `Number of cores per processor(每个处理器的内核数)`选择 2, 下一步
+
+
 
