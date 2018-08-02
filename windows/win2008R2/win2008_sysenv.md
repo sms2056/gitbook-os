@@ -123,6 +123,16 @@
 
 ### 方法二
 
+###### 1. 点击桌面左下角快捷栏中的`服务器管理`
+
+![](/windows/win2008R2/base/image/r2res-22.png)
+
+###### 2. 
+
+![](/windows/win2008R2/base/image/r2res-24.png)
+
+
+
 
 ## 七. 设置代理服务器上网
 
