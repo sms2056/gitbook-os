@@ -70,6 +70,24 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-14.png)
 
+###### 4. 
+
+![](/windows/win2008R2/base/image/r8ntfs-15.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
