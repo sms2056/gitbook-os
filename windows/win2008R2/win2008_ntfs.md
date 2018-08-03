@@ -90,6 +90,11 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-16.png)
 
+###### 6. 若文件夹,压缩后,文件夹外观无颜色变化,则可以在文件夹选项中进行修改
+
+![](/windows/win2008R2/base/image/r8ntfs-18.png)
+
+
 
 
 
