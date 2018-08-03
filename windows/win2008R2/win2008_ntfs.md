@@ -42,7 +42,7 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-7.png)
 
-###### 8. 由于继承性,所以`sms056`文件夹下的文件也继承了新用户的权限
+###### 8. 由于继承性,所有`sms056`文件夹下的文件也继承了新用户的权限
 
 ![](/windows/win2008R2/base/image/r8ntfs-10.png)
 
