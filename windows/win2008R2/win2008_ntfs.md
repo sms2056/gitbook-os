@@ -70,9 +70,15 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-14.png)
 
-###### 4. 在`高级属性`中选择`压缩内容以便节省磁盘空间`
+###### 4. 在`高级属性`中选择`压缩内容以便节省磁盘空间`,点击确定
 
 ![](/windows/win2008R2/base/image/r8ntfs-15.png)
+
+###### 5. 若创建的文件夹内存在文件或文件夹,则会有如下图选项
+
+![](/windows/win2008R2/base/image/r8ntfs-16.png)
+
+
 
 
 
