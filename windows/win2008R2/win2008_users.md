@@ -89,7 +89,7 @@
 
 ![](/windows/win2008R2/base/image/users-15.png)
 
-###### 5. 点击`高级`
+###### 5. 点击`高级` --> 立即查找,在搜索结果中选择用户,然后点击`确定`按钮(可以多选用户,按住shift,点击用户)
 
 ![](/windows/win2008R2/base/image/users-16.png)
 
