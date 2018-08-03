@@ -19,3 +19,6 @@
 ![](/windows/win2008R2/base/image/r8ntfs-1.png)
 
 ###### 2. 在桌面创建一个文件夹(test),并在test文件夹中创建一个test的文件
+
+![](/windows/win2008R2/base/image/r8ntfs-2.png)
+
