@@ -46,5 +46,9 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-8.png)
 
+![](/windows/win2008R2/base/image/r8ntfs-9.png)
+
+
+
 
 
