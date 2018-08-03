@@ -54,6 +54,8 @@
 
 ###### 9. 
 
+![](/windows/win2008R2/base/image/r8ntfs-11.png)
+
 
 
 
