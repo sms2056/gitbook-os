@@ -124,6 +124,8 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-24.png)
 
+###### 4. 其他用户访问该文件,会被拒绝
+
 
 
 
