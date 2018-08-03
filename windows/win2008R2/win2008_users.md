@@ -85,11 +85,11 @@
 
 ![](/windows/win2008R2/base/image/users-14.png)
 
-###### 4. 向新建组中添加成员,点击`添加`,弹出`选择用户`
+###### 4. 向新建组中添加成员,点击`添加`,弹出`选择用户`选项卡
 
 ![](/windows/win2008R2/base/image/users-15.png)
 
-###### 5. 
+###### 5. 点击`高级`
 
 ![](/windows/win2008R2/base/image/users-16.png)
 
