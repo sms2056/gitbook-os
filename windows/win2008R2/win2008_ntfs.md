@@ -62,6 +62,10 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-12.png)
 
+###### 2. 对`sms2056`文件夹单击鼠标右键,选择属性
+
+![](/windows/win2008R2/base/image/r8ntfs-13.png)
+
 
 
 
