@@ -106,6 +106,11 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-19.png)
 
+###### 2. 压缩文件创建成功
+
+![](/windows/win2008R2/base/image/r8ntfs-20.png)
+
+
 
 
 
