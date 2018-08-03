@@ -60,6 +60,10 @@
 
 ###### 1. 在`D:`创建一个名为`sms056`的文件夹
 
+![](/windows/win2008R2/base/image/r8ntfs-12.png)
+
+
+
 
 
 
