@@ -97,6 +97,10 @@
 
 ![](/windows/win2008R2/base/image/users-17.png)
 
+## 六. 密码重置盘
+
+
+
 
 
 
