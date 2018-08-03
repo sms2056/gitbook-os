@@ -116,7 +116,7 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-22.png)
 
-###### 2. 
+###### 2. 在`高级属性`中点击`加密内容以便保护数据`
 
 ![](/windows/win2008R2/base/image/r8ntfs-23.png)
 
