@@ -61,7 +61,7 @@
 
 ![](/windows/win2008R2/base/image/users-8.png)
 
-###### 9. 在弹出的警告框中,点击继续
+###### 9. 在弹出的警告框中,点击继续,直接由管理员填写新密码
 
 ![](/windows/win2008R2/base/image/users-9.png)
 
