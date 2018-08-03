@@ -110,6 +110,10 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-20.png)
 
+###### 3. 证书备份, 在`certmgr.msc`中点击`个人证书`,然后导出备份
+
+
+
 
 
 
