@@ -45,7 +45,7 @@
 
 ![](/windows/win2008R2/base/image/users-4.png)
 
-###### 5. 现在添加账号,在右侧栏中单击鼠标右键,选择`新用户`
+###### 5. 现在添加账号,在右侧栏空白处单击鼠标右键,选择`新用户`
 
 ![](/windows/win2008R2/base/image/users-5.png)
 
@@ -67,9 +67,21 @@
 
 ![](/windows/win2008R2/base/image/users-10.png)
 
-##### 10. 用户重命名,用户删除
+###### 10. 用户重命名,用户删除
 
 ![](/windows/win2008R2/base/image/users-11.png)
+
+## 五. 创建本地组
+
+###### 1. `服务器管理器` --> `配置` --> `本地用户和组`,右侧栏中可以看到所有用户组及相关的解释说明
+
+![](/windows/win2008R2/base/image/users-12.png)
+
+###### 2. 在右侧栏空白处单击鼠标右键,选择
+
+![](/windows/win2008R2/base/image/users-13.png)
+
+
 
 
 
