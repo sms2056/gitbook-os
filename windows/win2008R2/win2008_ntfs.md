@@ -52,7 +52,7 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-9.png)
 
-###### 9. 
+###### 9. 新建用户无法修改又管理员创建的用户
 
 ![](/windows/win2008R2/base/image/r8ntfs-11.png)
 
