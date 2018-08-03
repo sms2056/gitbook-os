@@ -66,6 +66,10 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-13.png)
 
+###### 3. 在`常规`选项卡中,点击高级
+
+![](/windows/win2008R2/base/image/r8ntfs-14.png)
+
 
 
 
