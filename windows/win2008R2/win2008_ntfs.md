@@ -120,7 +120,7 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-23.png)
 
-###### 3. 查看加密文件夹中文件的
+###### 3. 查看加密文件夹中文件的可访问人
 
 ![](/windows/win2008R2/base/image/r8ntfs-24.png)
 
