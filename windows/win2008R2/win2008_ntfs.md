@@ -22,3 +22,7 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-2.png)
 
+###### 3. 对`test`文件夹,右键单击`属性`,在弹出的`属性`栏中,`常规`选项卡显示的是文件夹的基本信息
+
+![](/windows/win2008R2/base/image/r8ntfs-3.png)
+
