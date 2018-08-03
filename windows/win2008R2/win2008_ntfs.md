@@ -116,13 +116,15 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-22.png)
 
-###### 2. 在`高级属性`中点击`加密内容以便保护数据`
+###### 2. 在`高级属性`中点击`加密内容以便保护数据`,利用windows自带证书系统对文件夹进行加密
 
 ![](/windows/win2008R2/base/image/r8ntfs-23.png)
 
 ###### 3. 查看加密文件夹中文件的可访问人
 
 ![](/windows/win2008R2/base/image/r8ntfs-24.png)
+
+
 
 
 
