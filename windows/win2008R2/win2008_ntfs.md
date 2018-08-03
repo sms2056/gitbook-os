@@ -44,5 +44,7 @@
 
 ###### 8. 切换到刚刚创建的用户系统下
 
+![](/windows/win2008R2/base/image/r8ntfs-8.png)
+
 
 
