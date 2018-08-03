@@ -93,6 +93,10 @@
 
 ![](/windows/win2008R2/base/image/users-16.png)
 
+###### 6. 用户组创建完毕,并填入用户
+
+![](/windows/win2008R2/base/image/users-17.png)
+
 
 
 
