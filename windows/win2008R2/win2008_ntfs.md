@@ -30,5 +30,11 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-4.png)
 
+![](/windows/win2008R2/base/image/r8ntfs-5.png)
+
+![](/windows/win2008R2/base/image/r8ntfs-6.png)
+
+![](/windows/win2008R2/base/image/r8ntfs-7.png)
+
 
 
