@@ -96,6 +96,8 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-17.png)
 
+###### 7. 已经加密的文件或文件夹,无法压缩
+
 
 
 
