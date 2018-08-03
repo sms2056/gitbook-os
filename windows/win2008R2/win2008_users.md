@@ -77,7 +77,7 @@
 
 ![](/windows/win2008R2/base/image/users-12.png)
 
-###### 2. 在右侧栏空白处单击鼠标右键,选择
+###### 2. 在右侧栏空白处单击鼠标右键,选择新建组
 
 ![](/windows/win2008R2/base/image/users-13.png)
 
