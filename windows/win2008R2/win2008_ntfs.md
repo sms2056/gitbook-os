@@ -94,6 +94,35 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-18.png)
 
+![](/windows/win2008R2/base/image/r8ntfs-17.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
