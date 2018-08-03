@@ -68,7 +68,12 @@
 ![](/windows/win2008R2/base/image/users-10.png)
 
 
-##### 
+##### 10. 用户重命名,用户删除
+
+![](/windows/win2008R2/base/image/users-11.png)
+
+
+
 
 
 
