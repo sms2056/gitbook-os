@@ -30,9 +30,15 @@
 
 ![](/windows/win2008R2/base/image/r8ntfs-4.png)
 
+###### 5. 点击`安全`选项卡中的编辑按钮,弹出'权限管理界面',点击`添加`按钮
+
 ![](/windows/win2008R2/base/image/r8ntfs-5.png)
 
+###### 6. 添加刚刚创建的用户.添加完成,点击确认
+
 ![](/windows/win2008R2/base/image/r8ntfs-6.png)
+
+###### 7. 对刚刚添加的用户,进行文件夹的权限设置,设置完成,点击确认
 
 ![](/windows/win2008R2/base/image/r8ntfs-7.png)
 
