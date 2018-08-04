@@ -29,7 +29,9 @@
 
 ![](/windows/win2008R2/base/image/r2share-4.png)
 
+###### 4. 进入`网络和共享中心`后,点击左侧的`更改高级共享设置`
 
+![](/windows/win2008R2/base/image/r2share-5.png)
 
 
 
