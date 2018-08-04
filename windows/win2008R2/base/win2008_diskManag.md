@@ -37,6 +37,8 @@ GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是�
 扩展分区(Extended Partition)
 扩展分区只可以被用来存储文件,无法被用来启动操作系统,也就是说,在计算机启动时并不会到扩展分区内读取`磁盘分区引导扇区(Partiton Boot Sector)`
 
+一个MBR磁盘内最多可以创建4个主分区,或最多3个主分区+1个扩展分区
+
 
 
 
