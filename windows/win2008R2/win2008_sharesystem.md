@@ -170,5 +170,7 @@ Windows 7 客户端默认已经启用了脱机文件,然而Windows Server 2008 R
 
 ![](/windows/win2008R2/base/image/r2share-29.png)
 
+## 卷影副本
+
 
 
