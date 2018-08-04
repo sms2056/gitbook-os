@@ -106,7 +106,7 @@ GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是�
 
 ###### 4. 新分区创建成功
 
-![](/windows/win2008R2/base/image/diskmanage-10.png)
+![](/windows/win2008R2/base/image/diskmanage-12.png)
 
 
 
