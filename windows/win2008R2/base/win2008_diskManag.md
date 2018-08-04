@@ -141,7 +141,7 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-15.png)
 
-###### 3. 
+###### 3. 点击`add(添加)` --> `Hard Disk(硬盘)` --> `Next(下一步)` --> 默认到硬盘添加完成
 
 ![](/windows/win2008R2/base/image/diskmanage-16.png)
 
