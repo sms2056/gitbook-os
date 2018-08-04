@@ -105,7 +105,7 @@
 
 ![](/windows/win2008R2/base/image/r2share-19.png)
 
-######
+###### 3. 网络驱动器映射成功
 
 ![](/windows/win2008R2/base/image/r2share-20.png)
 
