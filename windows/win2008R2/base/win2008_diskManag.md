@@ -112,7 +112,7 @@ GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是�
 
 ###### 1. 点击桌面左下方`windows PowerShell`图标
 
-###### 2. 执行命令 : `CONVERT F: /FS:NTFS`
+###### 2. 执行命令 : `CONVERT H: /FS:NTFS`
 
 
 
