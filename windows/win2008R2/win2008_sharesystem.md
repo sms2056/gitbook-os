@@ -125,6 +125,10 @@
 
 ![](/windows/win2008R2/base/image/r2share-21.png)
 
+###### 2. 点击`缓存`,即可进行`脱机设置`
+
+![](/windows/win2008R2/base/image/r2share-22.png)
+
 
 
 
