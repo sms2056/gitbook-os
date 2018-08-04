@@ -60,7 +60,7 @@ GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是�
 
 ######
 
-![](/windows/win2008R2/base/image/diskmanage-3.png)
+![](/windows/win2008R2/base/image/diskmanage-4.png)
 
 
 
