@@ -119,6 +119,14 @@
 
 ![](/windows/win2008R2/base/image/r2share-20.png)
 
+## 七. 脱机文件设置
+
+###### 1. 已共享的文件夹,鼠标右键,点击`属性`,找到`共享`选项卡,点击`高级共享`
+
+![](/windows/win2008R2/base/image/r2share-21.png)
+
+
+
 
 
 
