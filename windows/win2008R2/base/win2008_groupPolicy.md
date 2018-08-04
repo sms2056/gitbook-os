@@ -43,6 +43,8 @@
 
 ![](/windows/win2008R2/base/image/grouppolicy-6.png)
 
+###### 配置成功
+
 ![](/windows/win2008R2/base/image/grouppolicy-7.png)
 
 
