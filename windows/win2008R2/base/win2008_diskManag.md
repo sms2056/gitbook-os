@@ -181,7 +181,7 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-25.png)
 
-###### 12. 选择格式化方式
+###### 12. 选择格式化方式, 下一步
 
 ![](/windows/win2008R2/base/image/diskmanage-26.png)
 
