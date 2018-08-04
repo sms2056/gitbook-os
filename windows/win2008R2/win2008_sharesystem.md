@@ -33,6 +33,10 @@
 
 ![](/windows/win2008R2/base/image/r2share-5.png)
 
+###### 5. 在`高级共享设置`设置中,找到`公共文件夹共享`,点击下面的`启用共享以便可以访问网络的用户可以读取和写入公共文件夹中的文件`
+
+![](/windows/win2008R2/base/image/r2share-6.png)
+
 
 
 
