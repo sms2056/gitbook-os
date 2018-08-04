@@ -122,11 +122,12 @@ GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是�
 
 ###### 1. 动态磁盘分类
 
-a. 简单卷
-b. 跨区卷
-c. 带区卷
-d. 镜像卷
-e. RAID-5卷
+a. 简单卷(Simple Volume)
+b. 跨区卷(Spanned Volume)
+c. 带区卷(Striped Volume)
+d. 镜像卷(Mirrored Volume)
+e. RAID-5卷(RAID-5 Volume)
+
 
 
 
