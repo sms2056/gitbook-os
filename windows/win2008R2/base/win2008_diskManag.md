@@ -72,7 +72,25 @@ GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是�
 
 ###### 2. 在弹出的界面,点击`下一步`
 
-![](/windows/win2008R2/base/image/diskmanage-5.png)
+![](/windows/win2008R2/base/image/diskmanage-6.png)
+
+###### 3. 将选择`可用`选项中的磁盘,点击`添加`, 然后下一步 , 最后点击`完成`
+
+
+![](/windows/win2008R2/base/image/diskmanage-7.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
