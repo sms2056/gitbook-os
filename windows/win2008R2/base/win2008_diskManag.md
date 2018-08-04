@@ -189,3 +189,5 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-27.png)
 
+![](/windows/win2008R2/base/image/diskmanage-28.png)
+
