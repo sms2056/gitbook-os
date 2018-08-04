@@ -37,6 +37,16 @@
 
 ### 2). 删除开始菜单中的关机,重新启动,睡眠和休眠命令
 
+###### 用户配置 --> 管理模板 --> 开始菜单和任务栏 --> 双击右侧栏的`删除并阻止访问`
+
+![](/windows/win2008R2/base/image/grouppolicy-5.png)
+
+![](/windows/win2008R2/base/image/grouppolicy-6.png)
+
+![](/windows/win2008R2/base/image/grouppolicy-7.png)
+
+
+
 ### 3). 删除IE浏览器的`Internet选项`内的`安全与连接`标签
 
 ### 4). 将控制面板内的Windows防火墙隐藏起来
