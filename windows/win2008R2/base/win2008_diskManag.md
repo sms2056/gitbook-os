@@ -95,6 +95,7 @@ GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是�
 代表分析,如`d:\`
 
 装入一下空白NTFS文件夹中
+指定一个`空`的NTFS文件夹来代表此分区,则以后所有储存到该文件夹下的文件,都会被存储到此分区
 ```
 
 ![](/windows/win2008R2/base/image/diskmanage-10.png)
