@@ -58,9 +58,20 @@
 
 ![](/windows/win2008R2/base/image/r2share-10.png)
 
-###### 2. 点击`下拉菜单`,选择相应的用户后点击`添加`,就可以将用户添加到共享目录的用户列表中,点击`共享`,开始共享文件
+###### 2. 点击`下拉菜单`,选择相应的用户后点击`添加`,就可以将用户添加到共享目录的用户列表中,点击`共享`
 
 ![](/windows/win2008R2/base/image/r2share-11.png)
+
+###### 3. 在弹出的共享方式对话框中,选择默认
+
+![](/windows/win2008R2/base/image/r2share-12.png)
+
+###### 4. 共享成功
+
+![](/windows/win2008R2/base/image/r2share-13.png)
+
+
+
 
 
 
