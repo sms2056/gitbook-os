@@ -173,7 +173,7 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-23.png)
 
-###### 11. `RAID-5`需要三块磁盘,所以将所有可用磁盘添加进来
+###### 11. `RAID-5`需要三块磁盘,所以将所有可用磁盘添加进来,下一步
 
 ![](/windows/win2008R2/base/image/diskmanage-24.png)
 
