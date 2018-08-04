@@ -165,7 +165,7 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-21.png)
 
-###### 9. 鼠标右键点击随便一块没有`初始化`的磁盘,选择`初始化磁盘`
+###### 9. 选择三块磁盘,用GPT磁盘分区格式
 
 ![](/windows/win2008R2/base/image/diskmanage-22.png)
 
