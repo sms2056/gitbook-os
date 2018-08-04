@@ -52,6 +52,8 @@
 
 ![](/windows/win2008R2/base/image/r2share-9.png)
 
+## 四. 个人文件夹网络共享
+
 
 
 
