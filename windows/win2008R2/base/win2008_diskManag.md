@@ -185,3 +185,7 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-26.png)
 
+###### 13. 转换完成
+
+![](/windows/win2008R2/base/image/diskmanage-27.png)
+
