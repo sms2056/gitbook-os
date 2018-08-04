@@ -25,6 +25,10 @@
 
 ![](/windows/win2008R2/base/image/r2share-3.png)
 
+###### 3. 点击`网络和共享中心`
+
+![](/windows/win2008R2/base/image/r2share-4.png)
+
 
 
 
