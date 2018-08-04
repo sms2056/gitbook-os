@@ -42,6 +42,10 @@
 
 ![](/windows/win2008R2/base/image/r2share-6.png)
 
+###### 6. 访问共享文件夹,另启用一台虚拟机或实机,网络在同一局域网下,`开始`--> 
+
+![](/windows/win2008R2/base/image/r2share-7.png)
+
 
 
 
