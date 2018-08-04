@@ -13,5 +13,7 @@
 |Vmware| 14 |
 |Windows server 2008 R2|R2 standard,enterprise,datacenter 617598|
 
+## 三. 公共文件夹共享
+
 
 
