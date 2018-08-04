@@ -74,6 +74,8 @@
 
 ![](/windows/win2008R2/base/image/r2share-14.png)
 
+## 五,共享文件夹管理
+
 
 
 
