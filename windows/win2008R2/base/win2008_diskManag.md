@@ -149,6 +149,8 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-17.png)
 
+###### 5. 
+
 
 
 
