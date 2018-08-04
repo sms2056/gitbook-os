@@ -157,7 +157,7 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-19.png)
 
-###### 7. 磁盘由原来的`脱机`变为`不可用`
+###### 7. 磁盘由原来的`脱机`变为`没有初始化`
 
 ![](/windows/win2008R2/base/image/diskmanage-20.png)
 
