@@ -188,7 +188,7 @@ Windows 7 客户端默认已经启用了脱机文件,然而Windows Server 2008 R
 
 ![](/windows/win2008R2/base/image/r2share-33.png)
 
-###### 5. 在客户端访问卷影副本, 右键单击文件,选择`属性` --> 
+###### 5. 在客户端访问卷影副本, 右键单击文件,选择`属性` --> `以前的版本`
 
 ![](/windows/win2008R2/base/image/r2share-34.png)
 
