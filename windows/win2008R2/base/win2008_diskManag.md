@@ -128,6 +128,8 @@ c. 带区卷(Striped Volume)
 d. 镜像卷(Mirrored Volume)
 e. RAID-5卷(RAID-5 Volume)
 
+其中`简单卷`为动态磁盘的基本单位
+
 
 
 
