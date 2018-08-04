@@ -10,6 +10,7 @@
             * [4. Windows server 2008 R2 NTFS磁盘管理与安全](windows/win2008R2/base/win2008_ntfs.md)
             * [5. Windows server 2008 R2 文件共享系统](windows/win2008R2/base/win2008_sharesystem.md)
             * [6. Windows server 2008 R2 磁盘管理](windows/win2008R2/base/win2008_diskManag.md)
+            * [7. Windows server 2008 R2 备份与还原系统](windows/win2008R2/base/win2008_backupRestore.md)
         * [2008网络应用](windows/win2008R2/network/readme.md)
         * [2008应用程序](windows/win2008R2/appserver/readme.md)
         * [2008活动目录](windows/win2008R2/serverAD/readme.md)
