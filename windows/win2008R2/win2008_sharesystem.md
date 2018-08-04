@@ -148,7 +148,7 @@ Windows 7 客户端默认已经启用了脱机文件,然而Windows Server 2008 R
 
 ![](/windows/win2008R2/base/image/r2share-23.png)
 
-###### 2. 找到`桌面体验`,勾选上,点击下一步,安装
+###### 2. 找到`桌面体验`,勾选上,点击下一步,安装,然后按提示重启计算机
 
 ![](/windows/win2008R2/base/image/r2share-24.png)
 
