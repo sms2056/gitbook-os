@@ -88,7 +88,13 @@ GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是�
 
 ![](/windows/win2008R2/base/image/diskmanage-9.png)
 
-###### 2. 一直下一步,到`分配驱动器号和路径`选项时,按默认处理,
+###### 2. 一直下一步,到`分配驱动器号和路径`选项时,按默认处理.
+
+```
+分配一下驱动号
+
+装入一下空白NTFS文件夹中
+```
 
 ![](/windows/win2008R2/base/image/diskmanage-10.png)
 
