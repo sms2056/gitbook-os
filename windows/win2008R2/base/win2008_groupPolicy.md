@@ -35,6 +35,21 @@
 
 ![](/windows/win2008R2/base/image/grouppolicy-4.png)
 
+### 2). 删除开始菜单中的关机,重新启动,睡眠和休眠命令
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
