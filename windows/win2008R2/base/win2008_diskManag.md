@@ -78,6 +78,12 @@ GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是�
 
 ![](/windows/win2008R2/base/image/diskmanage-7.png)
 
+###### 4. 成功还原为压缩卷前
+
+![](/windows/win2008R2/base/image/diskmanage-8.png)
+
+
+
 
 
 
