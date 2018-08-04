@@ -95,7 +95,7 @@
 
 ![](/windows/win2008R2/base/image/r2share-17.png)
 
-## 六. 
+## 六. 利用网络驱动器来连接网络计算机
 
 
 
