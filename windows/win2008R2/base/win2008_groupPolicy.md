@@ -35,8 +35,6 @@
 
 ![](/windows/win2008R2/base/image/grouppolicy-4.png)
 
-###### b. 配置成功
-
 
 
 
