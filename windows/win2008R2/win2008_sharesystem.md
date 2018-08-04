@@ -46,6 +46,12 @@
 
 ![](/windows/win2008R2/base/image/r2share-7.png)
 
+###### 7. 输入完成,敲击回车,输入弹出框的用户名密码,就可以进行访问了
+
+![](/windows/win2008R2/base/image/r2share-8.png)
+
+![](/windows/win2008R2/base/image/r2share-9.png)
+
 
 
 
