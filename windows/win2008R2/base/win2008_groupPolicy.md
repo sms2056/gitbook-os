@@ -31,6 +31,10 @@
 
 ###### a. `计算机配置` --> `管理模板` --> `系统` --> 双击右栏的`显示关闭事件跟踪程序` --> 选择`已禁用`
 
+![](/windows/win2008R2/base/image/grouppolicy-3.png)
+
+![](/windows/win2008R2/base/image/grouppolicy-4.png)
+
 
 
 
