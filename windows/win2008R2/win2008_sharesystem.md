@@ -154,7 +154,7 @@ Windows 7 客户端默认已经启用了脱机文件,然而Windows Server 2008 R
 
 ###### 3. 启用脱机文件, '开始' --> `控制面板` --> `同步中心`
 
-![](/windows/win2008R2/base/image/r2share-24.png)
+![](/windows/win2008R2/base/image/r2share-25.png)
 
 
 
