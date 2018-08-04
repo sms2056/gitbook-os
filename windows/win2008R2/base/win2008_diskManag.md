@@ -153,6 +153,10 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-18.png)
 
+###### 6. 对每一个新添加的磁盘,都右键点击,选择`联机`
+
+![](/windows/win2008R2/base/image/diskmanage-19.png)
+
 
 
 
