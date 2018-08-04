@@ -169,6 +169,10 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-22.png)
 
+###### 10. 对其中一块磁盘右键点击`新建RAID-5卷`,下一步
+
+![](/windows/win2008R2/base/image/diskmanage-23.png)
+
 
 
 
