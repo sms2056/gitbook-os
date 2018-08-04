@@ -19,7 +19,7 @@
 
 MBR磁盘: 是标准的传统样式,其`磁盘分区表`是存储在MBR(Master Boot Recrd,主引导记录)内.MBR位于磁盘的最前端,计算机启动时,主板上的BIOS(基本输出/输入系统)会先读取MBR,并将计算机的控制权限交给MBR内的程序,然后由此程序来继续后面的启动工作
 
-GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内
+GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是位于磁盘的前端,而且他有磁盘分区表和备份磁盘分区表,可提供排错功能,GPT磁盘通过EFI(Extensible Firmware Interface,可扩展固件接口)来作为计算机硬件与操作系统之间通信的桥梁,EFI所扮演的角色类似与MBR磁盘的BIOS
 
 
 
