@@ -21,6 +21,11 @@ MBR磁盘: 是标准的传统样式,其`磁盘分区表`是存储在MBR(Master B
 
 GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是位于磁盘的前端,而且他有磁盘分区表和备份磁盘分区表,可提供排错功能,GPT磁盘通过EFI(Extensible Firmware Interface,可扩展固件接口)来作为计算机硬件与操作系统之间通信的桥梁,EFI所扮演的角色类似与MBR磁盘的BIOS
 
+### 2. 基本磁盘和动态磁盘
+
+基本磁盘(Basic Disk)
+基本磁盘是传统的磁盘操作系统,在Windows Server 2008 R2内新安装的硬盘`默认`是基本磁盘
+
 
 
 
