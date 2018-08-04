@@ -165,7 +165,7 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-21.png)
 
-###### 9. 选择三块磁盘,用GPT磁盘分区格式
+###### 9. 选择三块磁盘,用GPT磁盘分区格式,确定
 
 ![](/windows/win2008R2/base/image/diskmanage-22.png)
 
