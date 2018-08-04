@@ -89,6 +89,7 @@
 
 ![](/windows/win2008R2/base/image/r2share-16.png)
 
+b. 共享与存储
 ######
 
 
