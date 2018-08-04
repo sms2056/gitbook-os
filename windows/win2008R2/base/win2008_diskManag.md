@@ -145,6 +145,8 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-16.png)
 
+###### 4. 一共添加三块硬盘
+
 
 
 
