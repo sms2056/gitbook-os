@@ -161,7 +161,9 @@ e. RAID-5卷(RAID-5 Volume)
 
 ![](/windows/win2008R2/base/image/diskmanage-20.png)
 
-###### 8. 鼠标右键点击随便一块没有`初始化`的磁盘,选择`初始化`
+###### 8. 鼠标右键点击随便一块没有`初始化`的磁盘,选择`初始化磁盘`
+
+![](/windows/win2008R2/base/image/diskmanage-21.png)
 
 
 
