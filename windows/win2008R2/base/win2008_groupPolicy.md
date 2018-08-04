@@ -23,5 +23,6 @@
 ###### 1. '开始' --> 搜索栏输入`GPEDIT.MSC`
 
 
+![](/windows/win2008R2/base/image/grouppolicy-2.png)
 
  
