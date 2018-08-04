@@ -76,9 +76,13 @@
 
 ## 五,共享文件夹管理
 
-1. 
+###### 1. `开始` --> `管理攻击` --> `计算机管理`
 
 ![](/windows/win2008R2/base/image/r2share-15.png)
+
+###### 2. 
+
+![](/windows/win2008R2/base/image/r2share-16.png)
 
 
 
