@@ -108,6 +108,10 @@ GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是�
 
 ![](/windows/win2008R2/base/image/diskmanage-12.png)
 
+## 七. 转换文件系统
+
+###### 1. 点击桌面左下方`windows PowerShell`图标
+
 
 
 
