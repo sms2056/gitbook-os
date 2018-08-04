@@ -4,7 +4,6 @@
 1. Windows Server Backup 安装
 2. 系统备份
 3. 系统还原
-4. 
 
 ## 二. 实验环境
 
