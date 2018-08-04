@@ -17,6 +17,16 @@
 
 ###### 1. 点击`计算机`或`windows资源管理器` --> `本地磁盘C:(系统盘符)` --> `用户` --> '公共'
 
+![](/windows/win2008R2/base/image/r2share-1.png)
+
+
+![](/windows/win2008R2/base/image/r2share-2.png)
+
+
+
+
+
+
 
 
 
