@@ -176,4 +176,10 @@ Windows 7 客户端默认已经启用了脱机文件,然而Windows Server 2008 R
 
 ![](/windows/win2008R2/base/image/r2share-30.png)
 
+###### 2. 
+
+![](/windows/win2008R2/base/image/r2share-31.png)
+
+![](/windows/win2008R2/base/image/r2share-32.png)
+
 
