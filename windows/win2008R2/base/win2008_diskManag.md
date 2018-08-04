@@ -34,6 +34,8 @@ GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是�
 主分区(Primary Partition)
 主分区可以用来启动操作系统,计算机启动时会到活动(Active)的主分区内读取`磁盘分区引导扇区(Partiton Boot Sector)`,然后将控制权交给它来启动相关的操作系统
 
+扩展分区(Extended Partition)
+扩展分区只可以被用来存储文件,无法被用来启动操作系统,也就是说,在计算机启动时并不会到扩展分区内读取`磁盘分区引导扇区(Partiton Boot Sector)`
 
 
 
