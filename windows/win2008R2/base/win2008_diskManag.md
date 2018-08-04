@@ -112,8 +112,13 @@ GPT磁盘: `磁盘分区表`是存储在GPT(GUID Partition Table)内,他也是�
 
 ###### 1. 点击桌面左下方`windows PowerShell`图标
 
+![](/windows/win2008R2/base/image/diskmanage-13.png)
+
 ###### 2. 执行命令 : `CONVERT H: /FS:NTFS`
 
+![](/windows/win2008R2/base/image/diskmanage-14.png)
+
+## 八. 转化为动态磁盘
 
 
 
