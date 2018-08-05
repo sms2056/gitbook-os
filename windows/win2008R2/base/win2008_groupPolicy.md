@@ -84,7 +84,7 @@
 
 ![](/windows/win2008R2/base/image/grouppolicy-16.png)
 
-## 五. 
+## 五. 使用`本地安全策略`,配置本地安全属性
 
 
 
