@@ -18,7 +18,7 @@
 
 ![](/windows/win2008R2/base/image/grouppolicy-1.png)
 
-### 方式二: 打开`本地安全策略`
+### 方式二: 打开`本地组策略编辑器`
 
 ###### 1. '开始' --> 搜索栏输入`GPEDIT.MSC`
 
