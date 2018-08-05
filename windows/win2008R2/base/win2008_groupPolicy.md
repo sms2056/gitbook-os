@@ -92,8 +92,11 @@
 
 ![](/windows/win2008R2/base/image/grouppolicy-17.png)
 
+### 2). 账户策略的设置
 
+###### `安全设置` --> `账户策略`
 
+![](/windows/win2008R2/base/image/grouppolicy-18.png)
 
 
 
