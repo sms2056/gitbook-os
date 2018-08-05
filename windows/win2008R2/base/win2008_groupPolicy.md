@@ -25,7 +25,7 @@
 
 ![](/windows/win2008R2/base/image/grouppolicy-2.png)
 
-## 四. 使用`本地组策略编辑器`配置计算机安全属性
+## 四. 使用`本地组策略编辑器`配置计算机功能属性
 
 ### 1). 使用策略关闭`关机理由`
 
@@ -83,6 +83,8 @@
 ###### 修改后
 
 ![](/windows/win2008R2/base/image/grouppolicy-16.png)
+
+## 五. 
 
 
 
