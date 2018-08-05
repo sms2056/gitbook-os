@@ -76,6 +76,42 @@
 
 ![](/windows/win2008R2/base/image/grouppolicy-14.png)
 
+###### 修改前
+
+![](/windows/win2008R2/base/image/grouppolicy-15.png)
+
+###### 修改后
+
+![](/windows/win2008R2/base/image/grouppolicy-16.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
