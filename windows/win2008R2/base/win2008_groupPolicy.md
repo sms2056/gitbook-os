@@ -50,9 +50,12 @@
 ### 3). 删除IE浏览器的`Internet选项`内的`安全与连接`标签
 
 ###### `用户配置` --> `管理模板` --> `Windows组件` --> `Internet Explorer` --> `Internet控制面板` --> 将`禁用连接页`和`禁用安全页`设为`已启用`
-![](/windows/win2008R2/base/image/grouppolicy-7.png)
+![](/windows/win2008R2/base/image/grouppolicy-8.png)
 
 ###### 策略前
+
+
+![](/windows/win2008R2/base/image/grouppolicy-9.png)
 
 ### 4). 将控制面板内的Windows防火墙隐藏起来
 
