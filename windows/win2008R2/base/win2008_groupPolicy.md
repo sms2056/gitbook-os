@@ -62,8 +62,6 @@
 
 ![](/windows/win2008R2/base/image/grouppolicy-10.png)
 
-
-
 ### 4). 将控制面板内的Windows防火墙隐藏起来
 
 
