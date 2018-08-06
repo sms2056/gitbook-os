@@ -14,5 +14,15 @@
 
 ## 三. 安装Windows server 2008 R2 下的 Windows Server Backup
 
-###### 1. 点击右下角`服务器管理器`图标,点击左侧树形结构的跟标题`服务器管理器`
+###### 1. 点击右下角`服务器管理器`图标,点击左侧树形结构的跟标题`服务器管理器`,在右侧栏中找到`功能摘要`栏,点击下面的`添加功能`
+
+![](/windows/win2008R2/base/image/backup-1.png)
+
+###### 2. 
+
+![](/windows/win2008R2/base/image/backup-2.png)
+
+
+
+
 
