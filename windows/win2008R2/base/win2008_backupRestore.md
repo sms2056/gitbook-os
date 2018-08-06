@@ -136,5 +136,5 @@
 
 ![](/windows/win2008R2/base/image/backup-29.png)
 
-###### 4. 在命令行下输入`wbadmin enable backup -addtarget:{508fdda4-cb5b-46a3-bf3e-fbf951cc89e2} -schedule:22:00 -include:D: -allCritical`
+###### 4. 在命令行下输入`wbadmin enable backup -addtarget:{842e0e73-0000-0000-0000-000000000000} -schedule:22:00 -include:D: -allCritical`
 
