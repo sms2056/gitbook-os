@@ -132,7 +132,7 @@
 
 ![](/windows/win2008R2/base/image/backup-28.png)
 
-###### 3. 在命令行下输入``
+###### 3. 在命令行下输入`wbadmin get disks`
 
 ![](/windows/win2008R2/base/image/backup-29.png)
 
