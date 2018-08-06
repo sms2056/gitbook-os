@@ -78,7 +78,7 @@
 
 ![](/windows/win2008R2/base/image/backup-15.png)
 
-###### 7. 
+###### 7. 点击`下一步`,会显示确认信息,明确标注了备份项目(备份谁),备份目标(备份到哪里)等信息
 
 
 ![](/windows/win2008R2/base/image/backup-16.png)
