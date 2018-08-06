@@ -102,6 +102,8 @@
 
 ![](/windows/win2008R2/base/image/backup-21.png)
 
+###### 3. 在`系统修复选项`中选择`使用以前创建的系统镜像还原计算机`
+
 ![](/windows/win2008R2/base/image/backup-22.png)
 
 ![](/windows/win2008R2/base/image/backup-23.png)
