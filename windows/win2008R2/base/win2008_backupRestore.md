@@ -86,7 +86,7 @@
 
 ![](/windows/win2008R2/base/image/backup-17.png)
 
-###### 9. 不管什么时候执行Windows Server Backup备份服务，该程序都会将相关的事件写入到Windows事件日志中。有关日志可以在日志查看期的“应用程序和服务日志\Microsof\Windows\Backup\Operational”节点下看到。通过查看Operational日志，我们可以快速了解备份从什么时候开始，什么时候结束，已经失败的原因。
+###### 9. 不管什么时候执行Windows Server Backup备份服务，该程序都会将相关的事件写入到Windows事件日志中。有关日志可以在`事件查看器`的`应用程序和服务日志\Microsof\Windows\Backup\Operational`节点下看到。通过查看Operational日志，我们可以快速了解备份从什么时候开始，什么时候结束，已经失败的原因。
 
 ![](/windows/win2008R2/base/image/backup-18.png)
 
