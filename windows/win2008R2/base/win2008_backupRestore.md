@@ -26,6 +26,10 @@
 
 ![](/windows/win2008R2/base/image/backup-3.png)
 
+## 四. 备份系统服务
+
+###### 1. 
+
 
 
 
