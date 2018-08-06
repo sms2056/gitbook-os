@@ -118,7 +118,7 @@
 
 ![](/windows/win2008R2/base/image/backup-25.png)
 
-###### 7. 
+###### 7. 系统还原完成
 
 ![](/windows/win2008R2/base/image/backup-25.png)
 
