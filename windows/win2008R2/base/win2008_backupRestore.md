@@ -34,8 +34,16 @@
 
 ![](/windows/win2008R2/base/image/backup-5.png)
 
+初次使用Windows Server Backup时，我们会看到一条警告信息说这台计算机上还没有配置备份。如果要清除该警告，只需要使用“一次性备份”功能创建一个备份，或者使用备份计划功能自动创建备份即可。
+
 ![](/windows/win2008R2/base/image/backup-6.png)
 
+###### 2. 在备份之前可以设置“配置性能设置”
+
+普通备份:
+快速备份:
+
+![](/windows/win2008R2/base/image/backup-7.png)
 
 
 
