@@ -106,14 +106,21 @@
 
 ![](/windows/win2008R2/base/image/backup-22.png)
 
-###### 4. 选择`推荐`项,下一步
+###### 4. 选择`推荐`项,`下一步`
 
 ![](/windows/win2008R2/base/image/backup-23.png)
 
+###### 5. `下一步`
+
 ![](/windows/win2008R2/base/image/backup-24.png)
+
+###### 6. 点击`完成`
 
 ![](/windows/win2008R2/base/image/backup-25.png)
 
+###### 7. 
+
+![](/windows/win2008R2/base/image/backup-25.png)
 
 
 
