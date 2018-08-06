@@ -102,6 +102,63 @@
 
 ![](/windows/win2008R2/base/image/backup-21.png)
 
+![](/windows/win2008R2/base/image/backup-22.png)
+
+![](/windows/win2008R2/base/image/backup-23.png)
+
+![](/windows/win2008R2/base/image/backup-24.png)
+
+![](/windows/win2008R2/base/image/backup-25.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
