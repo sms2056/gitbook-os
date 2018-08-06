@@ -120,11 +120,13 @@
 
 ###### 7. 系统还原完成
 
-![](/windows/win2008R2/base/image/backup-25.png)
+![](/windows/win2008R2/base/image/backup-26.png)
 
 ## 六. 命令行下的系统备份
 
 ###### 1. '开始' --> 搜索栏输入`cmd`
+
+![](/windows/win2008R2/base/image/backup-27.png)
 
 
 
