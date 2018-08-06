@@ -82,6 +82,8 @@
 
 ![](/windows/win2008R2/base/image/backup-16.png)
 
+###### 8. 点击`完成`,将在规定的事件进行数据的备份
+
 ![](/windows/win2008R2/base/image/backup-17.png)
 
 
