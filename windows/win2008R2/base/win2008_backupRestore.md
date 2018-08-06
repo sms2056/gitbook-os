@@ -12,5 +12,5 @@
 |Vmware| 14 |
 |Windows server 2008 R2|R2 standard,enterprise,datacenter 617598|
 
-## 三. 安装Windows server 2008 R2 下的  Windows Server Backup
+## 三. 安装Windows server 2008 R2 下的 Windows Server Backup
 
