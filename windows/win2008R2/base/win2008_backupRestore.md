@@ -14,3 +14,5 @@
 
 ## 三. 安装Windows server 2008 R2 下的 Windows Server Backup
 
+###### 1. 点击右下角`服务管理器`图标
+
