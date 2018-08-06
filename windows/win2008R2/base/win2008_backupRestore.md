@@ -30,6 +30,12 @@
 
 ###### 1. `开始` --> `管理工具` --> `Windows Server Backup`或`win + R`,在运行`cmd`中输入Wbadmin.msc,同样可以打开Windows Server Backup管理控制台
 
+![](/windows/win2008R2/base/image/backup-4.png)
+
+![](/windows/win2008R2/base/image/backup-5.png)
+
+![](/windows/win2008R2/base/image/backup-6.png)
+
 
 
 
