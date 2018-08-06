@@ -40,8 +40,13 @@
 
 ###### 2. 在备份之前可以设置“配置性能设置”
 
+在使用Windows Server Backup时，对服务器的首次备份将是完整备份。这是因为完整备份会清除所有文件的存档位，这样Windows Server Backup就可以跟踪对文件的后续修改。随后Windows Server Backup要执行完整或增量备份则取决于配置的默认性能设置
+
+```
 普通备份:
 快速备份:
+
+```
 
 ![](/windows/win2008R2/base/image/backup-7.png)
 
