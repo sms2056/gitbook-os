@@ -140,7 +140,11 @@
 
 ###### 4. 在命令行下输入`wbadmin enable backup -addtarget:{986ea64f-0000-0000-0000-000000000000} -schedule:22:00 -include:c: -allCritical`,进行系统备份
 
-![](/windows/win2008R2/base/image/backup-29.png)
+![](/windows/win2008R2/base/image/backup-30.png)
+
+###### 5. 在命令行下输入``
+
+![](/windows/win2008R2/base/image/backup-31.png)
 
 
 
