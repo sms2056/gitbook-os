@@ -61,10 +61,11 @@
 
 ![](/windows/win2008R2/base/image/backup-9.png)
 
-![](/windows/win2008R2/base/image/backup-10.png)
+![](/windows/win2008R2/base/image/backup-10-1.png)
 
 ![](/windows/win2008R2/base/image/backup-11.png)
 
+###### 5. 
 
 
 
