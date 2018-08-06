@@ -134,11 +134,11 @@
 
 ![](/windows/win2008R2/base/image/backup-28.png)
 
-###### 3. 在命令行下输入`wbadmin get disks`
+###### 3. 在命令行下输入`wbadmin get disks`,查看有哪些硬盘可以用于备份
 
 ![](/windows/win2008R2/base/image/backup-29.png)
 
-###### 4. 在命令行下输入`wbadmin enable backup -addtarget:{986ea64f-0000-0000-0000-000000000000} -schedule:22:00 -include:c: -allCritical`
+###### 4. 在命令行下输入`wbadmin enable backup -addtarget:{986ea64f-0000-0000-0000-000000000000} -schedule:22:00 -include:c: -allCritical`,进行系统备份
 
 ![](/windows/win2008R2/base/image/backup-29.png)
 
