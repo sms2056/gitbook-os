@@ -28,7 +28,7 @@
 
 ## 四. 备份系统服务
 
-###### 1. 打开`Windows Server Backup`, 在工具第一次打开的时候
+###### 1. `开始` --> `管理工具` --> `Windows Server Backup`或`win + R`,在运行`cmd`中输入Wbadmin.msc,同样可以打开Windows Server Backup管理控制台
 
 
 
