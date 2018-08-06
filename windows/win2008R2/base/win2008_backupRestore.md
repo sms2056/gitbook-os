@@ -92,7 +92,19 @@
 
 ![](/windows/win2008R2/base/image/backup-19.png)
 
-###### 10.
+## 五. 系统服务还原
+
+###### 1. 插入Windows Server 2008 R2的光盘，以光盘启动计算机, 点击`下一步`
+
+![](/windows/win2008R2/base/image/backup-20.png)
+
+###### 2. 选择左下角的`修复计算机`
+
+![](/windows/win2008R2/base/image/backup-21.png)
+
+
+
+
 
 
 
