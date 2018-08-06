@@ -78,6 +78,12 @@
 
 ![](/windows/win2008R2/base/image/backup-15.png)
 
+###### 7. 
+
+
+![](/windows/win2008R2/base/image/backup-16.png)
+
+![](/windows/win2008R2/base/image/backup-17.png)
 
 
 
