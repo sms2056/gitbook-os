@@ -18,7 +18,7 @@
 
 ![](/windows/win2008R2/base/image/backup-1.png)
 
-###### 2. 
+###### 2. 在弹出的`添加功能向导`界面中,选择`Windows Server Backup 功能`,其中包含所有功能,一直下一步,直到安装完成,到重新启动
 
 ![](/windows/win2008R2/base/image/backup-2.png)
 
