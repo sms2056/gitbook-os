@@ -24,6 +24,10 @@
 
 ###### 3. 在`开始` --> `管理工具`,就可以找到刚刚安装好的`Windows Server Backup`
 
+![](/windows/win2008R2/base/image/backup-3.png)
+
+
+
 
 
 
