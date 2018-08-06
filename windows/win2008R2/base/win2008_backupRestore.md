@@ -18,10 +18,11 @@
 
 ![](/windows/win2008R2/base/image/backup-1.png)
 
-###### 2. 在弹出的`添加功能向导`界面中,选择`Windows Server Backup 功能`,其中包含所有功能,一直下一步,直到安装完成,到重新启动
+###### 2. 在弹出的`添加功能向导`界面中,选择`Windows Server Backup 功能`,其中包含所有功能,一直下一步,直到安装完成
 
 ![](/windows/win2008R2/base/image/backup-2.png)
 
+###### 3. 在`开始` --> `管理工具`,就可以找到刚刚安装好的`Windows Server Backup`
 
 
 
