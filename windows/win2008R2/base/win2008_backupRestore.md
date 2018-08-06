@@ -128,7 +128,11 @@
 
 ![](/windows/win2008R2/base/image/backup-27.png)
 
-###### 2. 在命令行下输入``
+###### 2. 在命令行下输入`wbadmin -help`
+
+![](/windows/win2008R2/base/image/backup-28.png)
+
+
 
 
 
