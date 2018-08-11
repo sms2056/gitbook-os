@@ -40,7 +40,7 @@ Active Directory内的对象种类与属性数据是定义在架构(Schema)内,�
 
 ## 9. 域控制器
 
-Active Directory域服务(AD DS)的目录数据存储在域控制器(Domain Controller)内
+Active Directory域服务(AD DS)的目录数据存储在域控制器(Domain Controller)内.
 
 
 
