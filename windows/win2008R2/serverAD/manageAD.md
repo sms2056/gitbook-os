@@ -78,4 +78,6 @@ Windows 7的远程工具在哪里呢?
 
 ###### 3. 填写`密码`,用户设置完毕
 
+![](/windows/win2008R2/serverAD/image/mgrAD-9.png)
+
 
