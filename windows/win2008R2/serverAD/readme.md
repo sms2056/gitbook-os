@@ -13,7 +13,7 @@ Active Directory 域内的Directory是用来存储用户账户,计算机账户�
 Active Directory域服务与DNS紧密的集成在一起,它的域名空间也是采用DNS架构,因此,域名是采用DNS格式来命名的,如:可以将Active Directory的域名空间为sms2056.com
 
 ## 3. 对象与属性
-Active Directory域内的资源是以对象(Object)的形式存在,而对象是通过属性(Attribute)来描述其特征,也就是所对象本身是一些属性的集合
+Active Directory域内的资源是以对象(Object)的形式存在,而对象是通过属性(Attribute)来描述其特征,也就是所对象本身是一些属性的集合.
 
 
 
