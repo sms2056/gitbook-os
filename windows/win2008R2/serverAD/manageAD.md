@@ -23,7 +23,7 @@ Active Directory用户和计算机
 这是以前在Windows Server 2008, Windows Server 2003等系统就已经提供的旧工具
 ```
 
-![](/windows/win2008R2/serverAD/image/mgrAD-1.png)
+![](/windows/win2008R2/serverAD/image/mgrAD-2.png)
 
 ```
 Active Directory管理中心
