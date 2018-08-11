@@ -101,6 +101,12 @@ SYSVOL文件夹:
 
 ![](/windows/win2008R2/serverAD/image/createAD-19.png)
 
+###### 5. 以AD域用户登录
+
+![](/windows/win2008R2/serverAD/image/createAD-20.png)
+
+
+
 
 
 ### c. 脱离AD域
