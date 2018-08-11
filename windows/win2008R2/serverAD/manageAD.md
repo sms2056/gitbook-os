@@ -53,9 +53,12 @@ Windows 7的远程工具在哪里呢?
 
 ### d. 新建组织和单位
 
-###### 1. 'Active Directory用户和计算机',右键点击一个DC控制器,选择`新建` --> `组`
+###### 1. 'Active Directory用户和计算机',右键点击一个DC控制器,选择`新建` --> `组织单位`
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-5.png)
 
+###### 2. 
+
+![](/windows/win2008R2/serverAD/image/mgrAD-6.png)
 
 
