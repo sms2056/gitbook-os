@@ -28,6 +28,13 @@ Active Directory域内的资源是以对象(Object)的形式存在,而对象是�
 
 ![](/windows/win2008R2/serverAD/image/readme-2.png)
 
+## 7. 林
+
+![](/windows/win2008R2/serverAD/image/readme-3.png)
+
+
+
+
 
 
 
