@@ -22,6 +22,9 @@ Active Directory用户和计算机
 ```
 
 ```
+Active Directory管理中心
+这是Windows Server 2008 R2最新工具,用来取代`Active Directory用户和计算机
+`
 ```
 
 
