@@ -107,7 +107,7 @@ SYSVOL文件夹:
 
 ### c. 脱离AD域
 
-###### 6. 
+###### 6. 在`隶属于`中,更换回`工作组`,随意输入工作组名称
 
 ![](/windows/win2008R2/serverAD/image/createAD-21.png)
 
