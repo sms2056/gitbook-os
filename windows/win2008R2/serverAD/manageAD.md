@@ -14,7 +14,7 @@
 
 ## 三.实验手册
 
-### 1. AD域管理工具
+### a. AD域管理工具
 
 ```
 Active Directory用户和计算机
@@ -31,7 +31,7 @@ Active Directory管理中心
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-2.png)
 
-### 2. 用户相关说明
+### b. 用户相关说明
 
 原本位于本地安全数据库中的本地账号,会在升级后被转移到Active Directory数据库内,而且被放置到Users容器内
 
@@ -39,3 +39,6 @@ Active Directory管理中心
 
 其他加入域的计算机账户默认会被放置到Computer容器内
 
+### c. 远程管理工具
+
+###### 1. 远程桌面(最高两人)
