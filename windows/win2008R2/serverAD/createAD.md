@@ -39,3 +39,9 @@
 ![](/windows/win2008R2/serverAD/image/createAD-7.png)
 
 ![](/windows/win2008R2/serverAD/image/createAD-6.png)
+
+###### 4. 输入AD域的域名
+
+![](/windows/win2008R2/serverAD/image/createAD-9.png)
+
+
