@@ -12,4 +12,4 @@
 
 ## 三. 实验拓扑
 
-!()[windows/win2008R2/serverAD/image/createAD-1.png]
+![](/windows/win2008R2/serverAD/image/createAD-1.png)
