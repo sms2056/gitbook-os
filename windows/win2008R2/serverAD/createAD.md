@@ -19,11 +19,16 @@
 
 ## 四. 实验手册
 
-### 1. 安装Active Directory域服务(AD DS)
+###### 1. 安装Active Directory域服务(AD DS)
 
 ![](/windows/win2008R2/serverAD/image/createAD-2.png)
 
 ![](/windows/win2008R2/serverAD/image/createAD-3.png)
 
 ![](/windows/win2008R2/serverAD/image/createAD-4.png)
+
+###### 2. 运行`Active Directory域服务安装向导`
+
+![](/windows/win2008R2/serverAD/image/createAD-5.png)
+
 
