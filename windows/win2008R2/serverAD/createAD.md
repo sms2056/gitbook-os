@@ -33,6 +33,8 @@
 
 ###### 3. 下一步,选择`在新林中新建域`
 
+![](/windows/win2008R2/serverAD/image/createAD-7.png)
+
 ![](/windows/win2008R2/serverAD/image/createAD-6.png)
 
 
