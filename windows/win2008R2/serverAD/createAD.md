@@ -48,4 +48,10 @@
 
 ![](/windows/win2008R2/serverAD/image/createAD-10.png)
 
+###### 6. DC选项
+
+![](/windows/win2008R2/serverAD/image/createAD-11.png)
+
+
+
 
