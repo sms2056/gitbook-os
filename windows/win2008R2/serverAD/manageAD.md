@@ -88,6 +88,8 @@ Windows 7的远程工具在哪里呢?
 
 ###### 1. `开始` --> `管理工具` --> `sushi2056.com` --> `Domain Controllers`,右键点击`Default Domain Controllers Policy`,点击`编辑`
 
+![](/windows/win2008R2/serverAD/image/mgrAD-11.png)
+
 
 
 
