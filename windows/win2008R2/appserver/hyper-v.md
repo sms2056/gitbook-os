@@ -78,6 +78,8 @@
 
 ![](/windows/win2008R2/appserver/image/hyperV-13.png)
 
+### c. wmware内使用windows server 2008 R2 的Hyper-V问题
+
 
 
 
