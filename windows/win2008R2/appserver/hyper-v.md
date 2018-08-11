@@ -36,5 +36,9 @@
 
 ![](/windows/win2008R2/appserver/image/hyperV-2.png)
 
+## 六. 实验手册
+
+### a. 安装Hyper-V
+
 
 
