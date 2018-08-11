@@ -7,7 +7,13 @@ Active Directory 域内的Directory是用来存储用户账户,计算机账户�
 
 ## 2. 命名空间
 命名空间(Namespace)是一块划分好的区域(Bounded Area),在此区内,我们可以用某个名称来找到与这个名称有关的信息.例如:一个电话本就是一个命名空间.Windows内的文件系统也是一个命名空间.
+
 在Active Directory域服务(AD DS)内,Active Directory就是一个命名空间,利用Active Directory,我们可以通过对象名称来找到与这个对象有关的所有信息
+
+Active Directory域服务与DNS紧密的集成在一起,它的域名空间也是采用DNS架构,因此,域名是采用DNS格式来命名的,如:可以将Active Directory的域名空间为sms2056.com
+
+
+
 
 
 
