@@ -79,6 +79,13 @@ SYSVOL文件夹:
 
 ![](/windows/win2008R2/serverAD/image/createAD-14.png)
 
+![](/windows/win2008R2/serverAD/image/createAD-15.png)
+
+
+
+
+
+
 
 
 
