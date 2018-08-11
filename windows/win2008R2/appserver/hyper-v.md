@@ -22,4 +22,9 @@
 
 ![](/windows/win2008R2/appserver/image/hyperV-1.jpg)
 
+## 四. 安装Hyper-V前后对比
+
+![](/windows/win2008R2/appserver/image/hyperV-2.png)
+
+
 
