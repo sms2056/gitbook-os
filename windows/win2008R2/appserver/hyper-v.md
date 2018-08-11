@@ -82,6 +82,8 @@
 
 1. 在虚拟机设置中，CPU属性中勾选“Virtualize Intel VT-x/EPT or AMD-V/RVI”来启用虚拟机的CPU支持虚拟化。
 
+![](/windows/win2008R2/appserver/image/hyperV-13.png)
+
 2. 在虚拟机文件所在目录中找到`.vmx`文件
 
 3. 添加如下参数
