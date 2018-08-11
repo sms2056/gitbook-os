@@ -31,4 +31,9 @@
 
 ![](/windows/win2008R2/serverAD/image/createAD-5.png)
 
+###### 3. 下一步
+
+![](/windows/win2008R2/serverAD/image/createAD-6.png)
+
+
 
