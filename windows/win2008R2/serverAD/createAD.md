@@ -87,6 +87,16 @@ SYSVOL文件夹:
 
 ###### 1. 
 
+![](/windows/win2008R2/serverAD/image/createAD-16.png)
+
+![](/windows/win2008R2/serverAD/image/createAD-17.png)
+
+![](/windows/win2008R2/serverAD/image/createAD-18.png)
+
+![](/windows/win2008R2/serverAD/image/createAD-19.png)
+
+
+
 ### c. 脱离AD域
 
 
