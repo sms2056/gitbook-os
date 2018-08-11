@@ -107,6 +107,9 @@ SYSVOL文件夹:
 
 ### c. 脱离AD域
 
+###### 6. 
+
+![](/windows/win2008R2/serverAD/image/createAD-21.png)
 
 
 
