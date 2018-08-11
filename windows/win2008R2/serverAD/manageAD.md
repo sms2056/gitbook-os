@@ -65,6 +65,13 @@ Windows 7的远程工具在哪里呢?
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-7.png)
 
+### e. 新建用户
 
+###### 1. 找到要创建用户的`组织单位`,鼠标右键,选择`用户`
+
+
+![](/windows/win2008R2/serverAD/image/mgrAD-8.png)
+
+###### 2. 填写相关信息,在同一域中,
 
 
