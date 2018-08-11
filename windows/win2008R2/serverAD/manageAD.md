@@ -90,7 +90,11 @@ Windows 7的远程工具在哪里呢?
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-11.png)
 
-###### 2. 
+###### 2. `计算机配置` --> `Windows设置` --> `安全设置` --> `本地策略` --> `用户权限分配` --> `允许用户本地登录`
+
+![](/windows/win2008R2/serverAD/image/mgrAD-12.png)
+
+
 
 
 
