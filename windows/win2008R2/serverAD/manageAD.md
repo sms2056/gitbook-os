@@ -94,7 +94,7 @@ Windows 7的远程工具在哪里呢?
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-12.png)
 
-###### 3. `添加用户或组`
+###### 3. 点击`添加用户或组`,输入用户或组,即可
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-13.png)
 
