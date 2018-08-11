@@ -57,8 +57,14 @@ Windows 7的远程工具在哪里呢?
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-5.png)
 
-###### 2. 
+###### 2. 输入组织单位的名称
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-6.png)
+
+###### 3. 创建`组织单位`成功
+
+![](/windows/win2008R2/serverAD/image/mgrAD-7.png)
+
+
 
 
