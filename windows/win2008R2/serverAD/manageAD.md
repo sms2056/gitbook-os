@@ -86,6 +86,14 @@ Windows 7的远程工具在哪里呢?
 
 ### f. 赋予用户在域控制器上具备`允许本地登录`的权限
 
+###### 1. `开始` --> `管理工具` --> `sushi2056.com` --> `Domain Controllers`,右键点击`Default Domain Controllers Policy`,点击`编辑`
+
+
+
+
+
+
+
 
 
 
