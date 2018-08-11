@@ -24,7 +24,7 @@ Active Directory域内的资源是以对象(Object)的形式存在,而对象是�
 
 ## 6. 信任
 
-两个域之间必须建立信任关系(Trust Relationsship),才可以访问对方域内的资源.而任何新的Active Directory域被加入到域树后,这个域会自动信任其上一层的父域,同时父域也会自动信任(Trust)这个新的子域.
+两个域之间必须建立信任关系(Trust Relationsship),才可以访问对方域内的资源.而任何新的Active Directory域被加入到域树后,这个域会自动信任其上一层的父域,同时父域也会自动信任(Trust)这个新的子域.而且这些信任关系具备双向传递性(Two-way Transitive).由于这个信任工作通过Kerberos安全协议来完成,因此也被称为Kerberos信任
 
 
 
