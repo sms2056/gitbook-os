@@ -57,6 +57,20 @@ Active Directory域服务(AD DS)的目录数据存储在域控制器(Domain Cont
 
 ![](/windows/win2008R2/serverAD/image/readme-6.png)
 
+## 14. 目录分区
+Active Directory数据库被逻辑的分为一下分区(Directory Partition):
+
+![](/windows/win2008R2/serverAD/image/readme-7.png)
+
+![](/windows/win2008R2/serverAD/image/readme-8.png)
+
+![](/windows/win2008R2/serverAD/image/readme-9.png)
+
+![](/windows/win2008R2/serverAD/image/readme-10.png)
+
+
+
+
 
 
 
