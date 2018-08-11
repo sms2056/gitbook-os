@@ -31,5 +31,11 @@ Active Directory管理中心
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-2.png)
 
+### 2. 用户相关说明
 
+原本位于本地安全数据库中的本地账号,会在升级后被转移到Active Directory数据库内,而且被放置到Users容器内
+
+这台服务器的计算机账号会被放置到Domain Controllers组织单位内
+
+其他加入域的计算机账户默认会被放置到Computer容器内
 
