@@ -62,6 +62,8 @@
 
 ![](/windows/win2008R2/appserver/image/hyperV-9.png)
 
+##### 5. 选择虚拟磁盘存储的位置及虚拟硬盘大小
+
 ![](/windows/win2008R2/appserver/image/hyperV-10.png)
 
 ![](/windows/win2008R2/appserver/image/hyperV-11.png)
