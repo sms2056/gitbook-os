@@ -69,9 +69,11 @@ SYSVOL文件夹:
 用来存储共享文件(如:与组策略有关的文件),注意它必须位于NTFS磁盘内
 ```
 
-
-
 ![](/windows/win2008R2/serverAD/image/createAD-12.png)
+
+###### 8. 输入F8下还原模式密码
+
+![](/windows/win2008R2/serverAD/image/createAD-13.png)
 
 
 
