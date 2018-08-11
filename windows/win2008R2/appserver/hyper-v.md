@@ -46,8 +46,28 @@
 
 ### b. 创建虚拟机
 
-###### 1. `服务管理工具` --> `角色` --> `Hyper-V` --> `新建`
+###### 1. `服务管理工具` --> `角色` --> `Hyper-V` --> `新建` --> `虚拟机`
 
 ![](/windows/win2008R2/appserver/image/hyperV-6.png)
+
+###### 2. 选择创建的虚拟机名称和虚拟机存储位置
+
+![](/windows/win2008R2/appserver/image/hyperV-7.png)
+
+###### 3. 填写要分配的内存大小
+
+![](/windows/win2008R2/appserver/image/hyperV-8.png)
+
+![](/windows/win2008R2/appserver/image/hyperV-9.png)
+
+![](/windows/win2008R2/appserver/image/hyperV-10.png)
+
+![](/windows/win2008R2/appserver/image/hyperV-11.png)
+
+![](/windows/win2008R2/appserver/image/hyperV-12.png)
+
+![](/windows/win2008R2/appserver/image/hyperV-13.png)
+
+
 
 
