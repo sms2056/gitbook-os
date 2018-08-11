@@ -72,8 +72,10 @@ Windows 7的远程工具在哪里呢?
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-8.png)
 
-###### 2. 填写相关信息,在同一域中,
+###### 2. 填写相关信息,在同一域中,`用户登录名`必须唯一
 
 ![](/windows/win2008R2/serverAD/image/createAD-22.png)
+
+###### 3. 填写`密码`,用户设置完毕
 
 
