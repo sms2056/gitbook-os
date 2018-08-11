@@ -16,5 +16,13 @@
 
 ### 1. AD域管理工具
 
+```
+Active Directory用户和计算机
+这是以前在Windows Server 2008, Windows Server 2003等系统就已经提供的旧工具
+```
+
+```
+```
+
 
 
