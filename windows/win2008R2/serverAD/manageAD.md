@@ -23,6 +23,9 @@ Active Directory用户和计算机
 这是以前在Windows Server 2008, Windows Server 2003等系统就已经提供的旧工具
 ```
 
+![](/windows/win2008R2/serverAD/image/mgrAD-1.png)
+
+
 ```
 Active Directory管理中心
 这是Windows Server 2008 R2最新工具,用来取代`Active Directory用户和计算机
