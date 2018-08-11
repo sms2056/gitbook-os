@@ -45,6 +45,10 @@ Active Directory域服务(AD DS)的目录数据存储在域控制器(Domain Cont
 ## 10. 全局编录
 虽然在域树内的所有域共享一个Active Directory,但是Active Directory数据却是分散在各个域内,而每一个域只存储该域本身的数据,因此,为了要让某个用户能够快速找到位于其他域内的资源在Active Directory域服务内设计了全局编录(Global Catalog)
 
+## 11. 域功能级别
+
+![](windows/win2008R2/serverAD/image/readme-4.png)
+
 
 
 
