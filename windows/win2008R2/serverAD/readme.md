@@ -49,6 +49,12 @@ Active Directory域服务(AD DS)的目录数据存储在域控制器(Domain Cont
 
 ![](/windows/win2008R2/serverAD/image/readme-4.png)
 
+## 12. 林功能级别
+
+![](/windows/win2008R2/serverAD/image/readme-5.png)
+
+
+
 
 
 
