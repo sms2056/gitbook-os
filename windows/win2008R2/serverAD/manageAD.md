@@ -84,7 +84,7 @@ Windows 7的远程工具在哪里呢?
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-10.png)
 
-### f. 
+### f. 赋予用户在域控制器上具备`允许本地登录`的权限
 
 
 
