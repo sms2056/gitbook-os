@@ -49,3 +49,5 @@ Active Directory管理中心
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-3.png)
 
+Windows 7的远程工具在哪里呢?
+
