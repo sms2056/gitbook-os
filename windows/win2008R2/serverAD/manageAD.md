@@ -31,5 +31,7 @@ Active Directory管理中心
 `
 ```
 
+![](/windows/win2008R2/serverAD/image/mgrAD-2.png)
+
 
 
