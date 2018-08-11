@@ -42,5 +42,7 @@
 
 ###### 1. 
 
+![](/windows/win2008R2/appserver/image/hyperV-5.png)
+
 
 
