@@ -85,13 +85,19 @@ SYSVOL文件夹:
 
 ### b. 加入AD域
 
-###### 1. 
+###### 1. `我的电脑`,右击,选择`属性`,找到`计算机名称.域和工作组设置`,点击`更改设置`
 
 ![](/windows/win2008R2/serverAD/image/createAD-16.png)
 
+###### 2. 点击`更改`
+
 ![](/windows/win2008R2/serverAD/image/createAD-17.png)
 
+###### 3. 在`隶属于`中,选择`域`,然后属于跟域的域名,点击`确定`,输入管理员名称与密码
+
 ![](/windows/win2008R2/serverAD/image/createAD-18.png)
+
+###### 4. 加入成功
 
 ![](/windows/win2008R2/serverAD/image/createAD-19.png)
 
