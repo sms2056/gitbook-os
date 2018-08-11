@@ -74,4 +74,6 @@ Windows 7的远程工具在哪里呢?
 
 ###### 2. 填写相关信息,在同一域中,
 
+![](/windows/win2008R2/serverAD/image/mgrAD-9.png)
+
 
