@@ -99,7 +99,7 @@ Windows 7的远程工具在哪里呢?
 ![](/windows/win2008R2/serverAD/image/mgrAD-13.png)
 
 ###### 4. 使组策略生效
-
+多种方法:
 1. 将域控制器reboot
 2. 等域控制器自动应用此新策略设置,可能需要5分组或更久
 3. 手动应用:在域控制器上执行`gpupdate`或`gpupdate /force`
