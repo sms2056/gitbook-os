@@ -26,5 +26,13 @@
 
 ![](/windows/win2008R2/appserver/image/hyperV-2.png)
 
+## 五. Hyper-V部署模式
+
+### 1. 单击部署
+
+### 2. 集群部署
+
+![](/windows/win2008R2/appserver/image/hyperV-2.png)
+
 
 
