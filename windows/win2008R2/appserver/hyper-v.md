@@ -70,6 +70,8 @@
 
 ![](/windows/win2008R2/appserver/image/hyperV-11.png)
 
+###### 7. 启动虚拟机
+
 ![](/windows/win2008R2/appserver/image/hyperV-12.png)
 
 ![](/windows/win2008R2/appserver/image/hyperV-13.png)
