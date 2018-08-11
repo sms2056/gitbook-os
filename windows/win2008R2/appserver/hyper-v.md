@@ -46,5 +46,8 @@
 
 ### b. 创建虚拟机
 
+###### 1. `服务管理工具` --> `角色` --> `Hyper-V` --> `新建`
+
+![](/windows/win2008R2/appserver/image/hyperV-6.png)
 
 
