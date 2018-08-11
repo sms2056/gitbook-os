@@ -75,6 +75,12 @@ SYSVOL文件夹:
 
 ![](/windows/win2008R2/serverAD/image/createAD-13.png)
 
+###### 9. 安装完成,重启计算机
+
+![](/windows/win2008R2/serverAD/image/createAD-14.png)
+
+
+
 
 
 
