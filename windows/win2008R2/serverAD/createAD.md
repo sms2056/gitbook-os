@@ -19,6 +19,8 @@
 
 ## 四. 实验手册
 
+### a. 创建AD域
+
 ###### 1. 安装Active Directory域服务(AD DS)
 
 ![](/windows/win2008R2/serverAD/image/createAD-2.png)
@@ -80,6 +82,8 @@ SYSVOL文件夹:
 ![](/windows/win2008R2/serverAD/image/createAD-14.png)
 
 ![](/windows/win2008R2/serverAD/image/createAD-15.png)
+
+
 
 
 
