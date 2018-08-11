@@ -32,10 +32,6 @@
 
 ![](/windows/win2008R2/appserver/image/hyperV-2.png)
 
-
-
-
-
 ### 2. 集群部署
 
 ![](/windows/win2008R2/appserver/image/hyperV-2.png)
