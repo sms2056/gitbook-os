@@ -52,6 +52,27 @@
 
 ![](/windows/win2008R2/serverAD/image/createAD-11.png)
 
+###### 7. 设置文件存放位置
+
+```
+数据文件夹:
+用来存储AD数据库
+```
+
+```
+日志文件文件夹:
+用来存储AD的更改日志,此日志文件可以用来修复AD
+```
+
+```
+SYSVOL文件夹:
+用来存储共享文件(如:与组策略有关的文件),注意它必须位于NTFS磁盘内
+```
+
+
+
+![](/windows/win2008R2/serverAD/image/createAD-12.png)
+
 
 
 
