@@ -16,3 +16,7 @@
 ## 三. 实验拓扑
 
 ![](/windows/win2008R2/serverAD/image/createAD-1.png)
+
+## 四. 实验手册
+
+### 1. 安装Active Directory域服务(AD DS)
