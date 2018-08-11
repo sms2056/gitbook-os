@@ -94,6 +94,10 @@ Windows 7的远程工具在哪里呢?
 
 ![](/windows/win2008R2/serverAD/image/mgrAD-12.png)
 
+###### 3. 
+
+![](/windows/win2008R2/serverAD/image/mgrAD-12.png)
+
 
 
 
