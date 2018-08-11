@@ -44,4 +44,8 @@
 
 ![](/windows/win2008R2/serverAD/image/createAD-9.png)
 
+###### 5. 选择林功能级别
+
+![](/windows/win2008R2/serverAD/image/createAD-10png)
+
 
