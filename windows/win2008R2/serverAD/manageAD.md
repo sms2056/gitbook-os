@@ -43,4 +43,6 @@ Active Directory管理中心
 
 ###### 1. 远程桌面(最高两人)
 
+![](/windows/win2008R2/serverAD/image/mgrAD-2.png)
+
 ###### 2. 远程管理工具
