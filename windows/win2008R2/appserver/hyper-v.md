@@ -58,6 +58,8 @@
 
 ![](/windows/win2008R2/appserver/image/hyperV-8.png)
 
+###### 4. 选择网络方式
+
 ![](/windows/win2008R2/appserver/image/hyperV-9.png)
 
 ![](/windows/win2008R2/appserver/image/hyperV-10.png)
