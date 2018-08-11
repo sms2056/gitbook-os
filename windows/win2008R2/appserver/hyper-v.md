@@ -40,7 +40,7 @@
 
 ### a. 安装Hyper-V
 
-###### 1. 
+###### 1. `服务器管理器` --> `角色` --> `添加角色` --> `Hyper-V`
 
 ![](/windows/win2008R2/appserver/image/hyperV-5.png)
 
