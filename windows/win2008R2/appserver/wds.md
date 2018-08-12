@@ -95,6 +95,8 @@
 
 ![](/windows/win2008R2/appserver/image/wds-18.png)
 
+###### 6.
+
 ![](/windows/win2008R2/appserver/image/wds-19.png)
 
 ![](/windows/win2008R2/appserver/image/wds-20.png)
