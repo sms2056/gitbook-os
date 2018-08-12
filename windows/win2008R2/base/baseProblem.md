@@ -12,8 +12,10 @@
 
 ## 6. 请分别说出NTFS文件系统的特性
 
-## 7. 
+## 7. 请说出,下图中文件权限的变化
 
 ![](/windows/win2008R2/base/image/baseproblem-1.png)
+
+## 8. 请说出,下图中文件权限的变化
 
 ![](/windows/win2008R2/base/image/baseproblem-2.png)
