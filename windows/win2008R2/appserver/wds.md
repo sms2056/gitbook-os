@@ -33,9 +33,11 @@
 
 ![](/windows/win2008R2/appserver/image/wds-3.png)
 
-###### 2. 在'角色'中添加`DHCP 服务器`
+###### 3. WDS安装完成
 
 ![](/windows/win2008R2/appserver/image/wds-1.png)
+
+
 
 
 
