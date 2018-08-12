@@ -52,5 +52,10 @@
 
 ![](/windows/win2008R2/appserver/image/wds-13.png)
 
+###### 8. 启动win 7 客户机获得DHCP分配的地址
+
+### b. IP续租
+
+### c. IP释放
 
 
