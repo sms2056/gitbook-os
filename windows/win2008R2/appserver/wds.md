@@ -107,7 +107,7 @@
 
 ![](/windows/win2008R2/appserver/image/wds-21.png)
 
-###### 9. 直接下一步
+###### 9. 直接下一步,点击完成
 
 ![](/windows/win2008R2/appserver/image/wds-22.png)
 
