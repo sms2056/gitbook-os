@@ -9,3 +9,9 @@
 ## 4. 请说明VMware中有几种联网方式,分别说出特点
 
 ## 5. 在本地组和组账号管理中,ALP表示什么?
+
+## 6. 请分别说出NTFS文件系统的特性
+
+## 7. 
+
+![](/windows/win2008R2/base/image/baseproblem-1.png)
