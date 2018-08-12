@@ -139,11 +139,19 @@
 
 ![](/windows/win2008R2/appserver/image/wds-27.png)
 
+###### 3. 选择`立即将镜像添加到windows 部署服务器`, 点击完成
+
 ![](/windows/win2008R2/appserver/image/wds-28.png)
+
+###### 4. 填入导出的镜像文件
 
 ![](/windows/win2008R2/appserver/image/wds-29.png)
 
+###### 5. 默认,直接下一步
+
 ![](/windows/win2008R2/appserver/image/wds-30.png)
+
+###### 6. 导入成功
 
 ![](/windows/win2008R2/appserver/image/wds-31.png)
 
