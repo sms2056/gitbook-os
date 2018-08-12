@@ -61,6 +61,8 @@
 
 ![](/windows/win2008R2/appserver/image/wds-10.png)
 
+###### 5. 不需要IPv6的DHCP分配
+
 ![](/windows/win2008R2/appserver/image/wds-11.png)
 
 ![](/windows/win2008R2/appserver/image/wds-12.png)
