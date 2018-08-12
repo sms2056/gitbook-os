@@ -15,3 +15,5 @@
 ## 7. 
 
 ![](/windows/win2008R2/base/image/baseproblem-1.png)
+
+![](/windows/win2008R2/base/image/baseproblem-2.png)
