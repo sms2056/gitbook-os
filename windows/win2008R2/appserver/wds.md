@@ -18,6 +18,11 @@
 ### a. 前期准备
 
 1. 配置完成的AD域
+
+![](/windows/win2008R2/appserver/image/wds-1.png)
+
+
+
 2. WDS服务器必须加入AD域(该实验中,域和WDS同在一台服务器中)
 
 ### b. 在WDS服务器中,安装WDS角色
