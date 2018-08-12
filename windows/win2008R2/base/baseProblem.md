@@ -4,6 +4,6 @@
 
 ## 2. 请问windows 7 能升级到windows server 2008 吗?能,请说明步骤,不能,请说明原因
 
-## 3. windows server 2008 R2 完全安装和核心安装的区别
+## 3. windows server 2008 R2 完全安装与核心安装的区别
 
 ## 4. 请说明VMware中有几种联网方式,分别说出特点
