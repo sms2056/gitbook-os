@@ -162,15 +162,3 @@
 ###### 8. 在客户机中设置BIOS,用网络安装系统,进行系统GHO
 
 ![](/windows/win2008R2/appserver/image/wds-33.png)
-
-
-
-
-
-
-
-
-
-
-
-
