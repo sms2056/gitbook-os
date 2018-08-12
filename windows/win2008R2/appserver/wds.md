@@ -135,6 +135,8 @@
 
 ![](/windows/win2008R2/appserver/image/wds-26.png)
 
+###### 2. 输入捕获进行的镜像名称和剥离后镜像的存储位置
+
 ![](/windows/win2008R2/appserver/image/wds-27.png)
 
 ![](/windows/win2008R2/appserver/image/wds-28.png)
