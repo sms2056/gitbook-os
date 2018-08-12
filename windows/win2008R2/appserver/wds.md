@@ -73,6 +73,8 @@
 
 ![](/windows/win2008R2/appserver/image/wds-13.png)
 
+### d. 配置WDS服务器
+
 
 
 
