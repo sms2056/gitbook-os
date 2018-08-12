@@ -107,6 +107,8 @@
 
 ![](/windows/win2008R2/appserver/image/wds-21.png)
 
+###### 9. 直接下一步
+
 ![](/windows/win2008R2/appserver/image/wds-22.png)
 
 ![](/windows/win2008R2/appserver/image/wds-23.png)
