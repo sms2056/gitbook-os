@@ -24,6 +24,8 @@
 
 ### b. 在WDS服务器中,安装WDS角色
 
+windows/win2008R2/appserver/image/wds-1.png
+
 
 
 
