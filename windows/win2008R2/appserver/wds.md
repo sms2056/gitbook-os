@@ -69,6 +69,8 @@
 
 ![](/windows/win2008R2/appserver/image/wds-12.png)
 
+###### 7. 配置完成
+
 ![](/windows/win2008R2/appserver/image/wds-13.png)
 
 
