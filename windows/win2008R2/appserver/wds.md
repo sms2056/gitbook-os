@@ -41,7 +41,7 @@
 
 ###### 1. 在`角色`中添加`DHCP服务器`
 
-![](/windows/win2008R2/appserver/image/wds-4.png)
+![](/windows/win2008R2/appserver/image/wds-5.png)
 
 
 
