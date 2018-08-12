@@ -77,6 +77,8 @@
 
 ###### 1. 向服务器中加载`Windows 2008 R2`的光盘镜像
 
+![](/windows/win2008R2/appserver/image/wds-14.png)
+
 
 
 
