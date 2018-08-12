@@ -129,7 +129,7 @@
 
 ![](/windows/win2008R2/appserver/image/wds-32.png)
 
-
+### e. 捕获镜像
 ![](/windows/win2008R2/appserver/image/wds-26.png)
 ![](/windows/win2008R2/appserver/image/wds-27.png)
 ![](/windows/win2008R2/appserver/image/wds-28.png)
