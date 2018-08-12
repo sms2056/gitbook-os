@@ -35,7 +35,7 @@
 
 ###### 3. WDS安装完成
 
-![](/windows/win2008R2/appserver/image/wds-1.png)
+![](/windows/win2008R2/appserver/image/wds-4.png)
 
 
 
