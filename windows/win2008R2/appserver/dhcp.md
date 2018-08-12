@@ -54,6 +54,8 @@
 
 ###### 8. 启动win 7 客户机获得DHCP分配的地址
 
+![](/windows/win2008R2/appserver/image/dhcp-1.png)
+
 ### b. IP续租
 
 ![](/windows/win2008R2/appserver/image/dhcp-3.png)
