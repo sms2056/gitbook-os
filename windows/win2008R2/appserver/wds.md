@@ -43,6 +43,24 @@
 
 ![](/windows/win2008R2/appserver/image/wds-5.png)
 
+###### 2. 
+
+![](/windows/win2008R2/appserver/image/wds-6.png)
+
+![](/windows/win2008R2/appserver/image/wds-7.png)
+
+![](/windows/win2008R2/appserver/image/wds-8.png)
+
+![](/windows/win2008R2/appserver/image/wds-9.png)
+
+![](/windows/win2008R2/appserver/image/wds-10.png)
+
+![](/windows/win2008R2/appserver/image/wds-11.png)
+
+![](/windows/win2008R2/appserver/image/wds-12.png)
+
+![](/windows/win2008R2/appserver/image/wds-13.png)
+
 
 
 
