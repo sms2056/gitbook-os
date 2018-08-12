@@ -31,3 +31,7 @@
 
 ###### 4. 在`F:\`盘中创建一个网络共享文件夹,名叫share,里面再创建两个文件夹分别叫`IT`,'HR'.在`IT`,'HR'文件夹中再创建两个文件,一个分别叫`tom专属文件.txt`,另一个叫`Alice专属文件.txt`,如下图:
 
+![](/windows/win2008R2/base/image/baseproblem-3.png)
+
+
+
