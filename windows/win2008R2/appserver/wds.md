@@ -43,11 +43,15 @@
 
 ![](/windows/win2008R2/appserver/image/wds-5.png)
 
-###### 2. 
+###### 2. 要绑定本服务器IP地址
 
 ![](/windows/win2008R2/appserver/image/wds-6.png)
 
+###### 3. 对父域和首选DNS进行设置
+
 ![](/windows/win2008R2/appserver/image/wds-7.png)
+
+###### 4. 设置DHCP的作用于,也就是要分配的IP段
 
 ![](/windows/win2008R2/appserver/image/wds-8.png)
 
