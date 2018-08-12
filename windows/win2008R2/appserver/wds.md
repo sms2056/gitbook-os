@@ -121,6 +121,15 @@
 
 ![](/windows/win2008R2/appserver/image/wds-25.png)
 
+###### 11. 启动同一局域网中的PC,要求BIOS中设置了,使用网络安装系统
+
+![](/windows/win2008R2/appserver/image/wds-34.png)
+
+###### 12. 重新启动客户端,使用WDS服务安装系统
+
+![](/windows/win2008R2/appserver/image/wds-32.png)
+
+
 ![](/windows/win2008R2/appserver/image/wds-26.png)
 ![](/windows/win2008R2/appserver/image/wds-27.png)
 ![](/windows/win2008R2/appserver/image/wds-28.png)
