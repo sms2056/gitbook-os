@@ -103,6 +103,8 @@
 
 ![](/windows/win2008R2/appserver/image/wds-20.png)
 
+###### 8. 使用默认的镜像组
+
 ![](/windows/win2008R2/appserver/image/wds-21.png)
 
 ![](/windows/win2008R2/appserver/image/wds-22.png)
