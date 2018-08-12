@@ -155,6 +155,8 @@
 
 ![](/windows/win2008R2/appserver/image/wds-31.png)
 
+###### 7. 客户端双击`sysrep`,用来删除SID等一些环境变量
+
 
 
 
