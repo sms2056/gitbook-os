@@ -22,7 +22,7 @@
 
 ### b. 在WDS服务器中,安装WDS角色
 
-###### 1. 
+###### 1. 在`角色`中添加`windows 部署服务`
 
 ![](/windows/win2008R2/appserver/image/wds-1.png)
 
