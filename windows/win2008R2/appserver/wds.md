@@ -99,6 +99,8 @@
 
 ![](/windows/win2008R2/appserver/image/wds-19.png)
 
+###### 7. 在`添加镜像向导`中输入DVD驱动器的路径
+
 ![](/windows/win2008R2/appserver/image/wds-20.png)
 
 ![](/windows/win2008R2/appserver/image/wds-21.png)
