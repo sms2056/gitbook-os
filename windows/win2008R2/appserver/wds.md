@@ -95,7 +95,7 @@
 
 ![](/windows/win2008R2/appserver/image/wds-18.png)
 
-###### 6.
+###### 6. 选择`立即向服务器中添加镜像`
 
 ![](/windows/win2008R2/appserver/image/wds-19.png)
 
