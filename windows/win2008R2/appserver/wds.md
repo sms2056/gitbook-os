@@ -81,7 +81,6 @@
 
 ###### 2. 打开
 
-
 ![](/windows/win2008R2/appserver/image/wds-15.png)
 ![](/windows/win2008R2/appserver/image/wds-16.png)
 ![](/windows/win2008R2/appserver/image/wds-17.png)
@@ -100,10 +99,7 @@
 ![](/windows/win2008R2/appserver/image/wds-29.png)
 ![](/windows/win2008R2/appserver/image/wds-30.png)
 ![](/windows/win2008R2/appserver/image/wds-31.png)
-![](/windows/win2008R2/appserver/image/wds-32.png)
-![](/windows/win2008R2/appserver/image/wds-33.png)
-![](/windows/win2008R2/appserver/image/wds-34.png)
-![](/windows/win2008R2/appserver/image/wds-35.png)
+
 
 
 
