@@ -37,6 +37,12 @@
 
 ![](/windows/win2008R2/appserver/image/wds-4.png)
 
+### c. 安装DHCP服务器,用于网络系统安装
+
+###### 1. 在`角色`中添加`windows 部署服务`
+
+
+
 
 
 
