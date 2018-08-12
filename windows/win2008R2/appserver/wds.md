@@ -29,6 +29,8 @@
 
 ![](/windows/win2008R2/appserver/image/wds-1.png)
 
+![](/windows/win2008R2/appserver/image/wds-2.png)
+
 ###### 2. 在'角色'中添加`DHCP 服务器`
 
 ![](/windows/win2008R2/appserver/image/wds-1.png)
