@@ -79,18 +79,34 @@
 
 ![](/windows/win2008R2/appserver/image/wds-14.png)
 
-###### 2. 打开
+###### 2. 打开`服务器管理器` --> `角色` --> `windows部署服务` --> 右击`域名` --> 选择`配置服务器 `
 
 ![](/windows/win2008R2/appserver/image/wds-15.png)
+
+###### 3. 输入要一个目录,用于存储相应的镜像文件,建议空间要大
+
 ![](/windows/win2008R2/appserver/image/wds-16.png)
+
+###### 4. `DHCP选项`中,什么都不选择
+
 ![](/windows/win2008R2/appserver/image/wds-17.png)
+
+###### 5. 设置`PXE 服务器初始设置`,选择`相应所有客户端计算机(已知和未知)`,下面的复选框不选择
+
 ![](/windows/win2008R2/appserver/image/wds-18.png)
+
 ![](/windows/win2008R2/appserver/image/wds-19.png)
+
 ![](/windows/win2008R2/appserver/image/wds-20.png)
+
 ![](/windows/win2008R2/appserver/image/wds-21.png)
+
 ![](/windows/win2008R2/appserver/image/wds-22.png)
+
 ![](/windows/win2008R2/appserver/image/wds-23.png)
+
 ![](/windows/win2008R2/appserver/image/wds-24.png)
+
 ![](/windows/win2008R2/appserver/image/wds-25.png)
 
 ![](/windows/win2008R2/appserver/image/wds-26.png)
