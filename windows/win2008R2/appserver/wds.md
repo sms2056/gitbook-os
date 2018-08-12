@@ -130,11 +130,19 @@
 ![](/windows/win2008R2/appserver/image/wds-32.png)
 
 ### e. 捕获镜像
+
+###### 1. 在`启动镜像`中右键点击`镜像`,选择`创建捕获镜像`
+
 ![](/windows/win2008R2/appserver/image/wds-26.png)
+
 ![](/windows/win2008R2/appserver/image/wds-27.png)
+
 ![](/windows/win2008R2/appserver/image/wds-28.png)
+
 ![](/windows/win2008R2/appserver/image/wds-29.png)
+
 ![](/windows/win2008R2/appserver/image/wds-30.png)
+
 ![](/windows/win2008R2/appserver/image/wds-31.png)
 
 
