@@ -56,6 +56,11 @@
 
 ### b. IP续租
 
+![](/windows/win2008R2/appserver/image/dhcp-3.png)
+
 ### c. IP释放
+
+![](/windows/win2008R2/appserver/image/dhcp-2.png)
+
 
 
