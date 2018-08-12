@@ -113,7 +113,11 @@
 
 ![](/windows/win2008R2/appserver/image/wds-23.png)
 
+###### 10. 通过`windows 部署服务器`可以看到被抽离的windows`安装镜像`
+
 ![](/windows/win2008R2/appserver/image/wds-24.png)
+
+###### 10. 通过`windows 部署服务器`可以看到被抽离的windows`启动镜像`
 
 ![](/windows/win2008R2/appserver/image/wds-25.png)
 
