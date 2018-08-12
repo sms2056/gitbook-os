@@ -51,7 +51,7 @@
 
 ![](/windows/win2008R2/appserver/image/wds-7.png)
 
-###### 4. 设置DHCP的作用于,也就是要分配的IP段
+###### 4. 设置不需要WINS服务
 
 ![](/windows/win2008R2/appserver/image/wds-8.png)
 
