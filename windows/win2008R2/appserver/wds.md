@@ -65,6 +65,8 @@
 
 ![](/windows/win2008R2/appserver/image/wds-11.png)
 
+###### 6. 设置DHCP服务器授权,以默认为主
+
 ![](/windows/win2008R2/appserver/image/wds-12.png)
 
 ![](/windows/win2008R2/appserver/image/wds-13.png)
