@@ -88,6 +88,20 @@ DNS服务器,会缓存用户查询的域名,用来减轻公网DNS的负担和查
 
 ## 五. 配置反向查询
 
+![](/windows/win2008R2/appserver/image/dns-24.png)
+
+![](/windows/win2008R2/appserver/image/dns-25.png)
+
+![](/windows/win2008R2/appserver/image/dns-26.png)
+
+![](/windows/win2008R2/appserver/image/dns-27.png)
+
+![](/windows/win2008R2/appserver/image/dns-28.png)
+
+![](/windows/win2008R2/appserver/image/dns-29.png)
+
+![](/windows/win2008R2/appserver/image/dns-30.png)
+
 ## 六. 通过配置DNS服务器,阻止客户端上指定网址
 
 ###### 1. 先在客户端,设置DNS指向DNS服务器,使用浏览器浏览`www.baidu.com`
