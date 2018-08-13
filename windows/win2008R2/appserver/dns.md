@@ -37,7 +37,7 @@
 
 ![](/windows/win2008R2/appserver/image/dns-5.png)
 
-###### 3. 输入要创建的`域名`,如:`sms2056`
+###### 3. 输入要创建的`域名`,如:`sms2056.com`
 
 ![](/windows/win2008R2/appserver/image/dns-6.png)
 
