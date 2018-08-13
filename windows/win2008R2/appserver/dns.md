@@ -73,6 +73,8 @@
 
 ## 六. 通过配置DNS服务器,阻止客户端上指定网址
 
+###### 1. 先在客户端,设置DNS指向DNS服务器,使用浏览器浏览`www.baidu.com`
+
 ![](/windows/win2008R2/appserver/image/dns-17.png)
 
 ![](/windows/win2008R2/appserver/image/dns-18.png)
