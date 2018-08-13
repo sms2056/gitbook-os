@@ -69,6 +69,8 @@
 
 ![](/windows/win2008R2/appserver/image/dns-13.png)
 
+## 五. 配置反向查询
+
 
 
 
