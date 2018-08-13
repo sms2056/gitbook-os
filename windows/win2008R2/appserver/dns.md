@@ -57,6 +57,8 @@
 
 ![](/windows/win2008R2/appserver/image/dns-10.png)
 
+###### 8. 使用客户机(windows 7),先测试DNS是否连通,然后修改DNS为刚配置DNS服务器的地址
+
 ![](/windows/win2008R2/appserver/image/dns-11.png)
 
 ![](/windows/win2008R2/appserver/image/dns-12.png)
