@@ -75,6 +75,16 @@
 
 ## 七. 使用`转发器`,使用户正常上网
 
+![](/windows/win2008R2/appserver/image/dns-14.png)
+
+![](/windows/win2008R2/appserver/image/dns-15.png)
+
+![](/windows/win2008R2/appserver/image/dns-16.png)
+
+![](/windows/win2008R2/appserver/image/dns-17.png)
+
+
+
 ## 八.通过委派DNS服务,实现客户端上网
 
 
