@@ -41,7 +41,11 @@
 
 ![](/windows/win2008R2/appserver/image/dns-6.png)
 
+###### 4. 在`区域文件`中,选择`创建新文件,文件名为(C):`,按默认就可以
+
 ![](/windows/win2008R2/appserver/image/dns-7.png)
+
+###### 5. 在`动态更新`中,选择`不允许动态更新`
 
 ![](/windows/win2008R2/appserver/image/dns-8.png)
 
