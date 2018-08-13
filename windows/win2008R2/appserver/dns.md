@@ -49,6 +49,8 @@
 
 ![](/windows/win2008R2/appserver/image/dns-8.png)
 
+###### 6. `区域文件`创建完成,右键点击所创建的`区域文件`
+
 ![](/windows/win2008R2/appserver/image/dns-9.png)
 
 ![](/windows/win2008R2/appserver/image/dns-10.png)
