@@ -166,33 +166,61 @@ DNS服务器,会缓存用户查询的域名,用来减轻公网DNS的负担和查
 
 ## 八.通过委派DNS服务,实现客户端上网
 
-###### 1. 两台DNS服务器,一台用作主DNS,一台用作委派DNS
+两台DNS服务器,一台用作主DNS(192.168.152.3),一台用作委派DNS(192.168.152.4)
+
+###### 1. 在主DNS服务,进行域名设置,`区域名称`为`sms2056.com`
 
 ![](/windows/win2008R2/appserver/image/dns-31.png)
 
+###### 2. 建立A记录
+
 ![](/windows/win2008R2/appserver/image/dns-32.png)
+
+###### 3. 名称为`dns1`,`IP地址`指向主dns服务器
 
 ![](/windows/win2008R2/appserver/image/dns-33.png)
 
+###### 4. 在建立一个A记录,名称为`dns2`,`IP地址`指向委派服务器
+
 ![](/windows/win2008R2/appserver/image/dns-34.png)
+
+###### 5. 测试两台服务器的连通性
 
 ![](/windows/win2008R2/appserver/image/dns-35.png)
 
+###### 6. 在主DNS上建立委派服务器
+
 ![](/windows/win2008R2/appserver/image/dns-36.png)
+
+###### 7. `委派的域`写`bj`
 
 ![](/windows/win2008R2/appserver/image/dns-37.png)
 
+###### 8. 填入`委派的DNS服务器`
+
 ![](/windows/win2008R2/appserver/image/dns-38.png)
+
+###### 9. 委派域生成,显示为灰色
 
 ![](/windows/win2008R2/appserver/image/dns-39.png)
 
+###### 10. 在委派DNS上创建新区域
+
 ![](/windows/win2008R2/appserver/image/dns-40.png)
+
+###### 11. 名称为`bj.sms2056.com`,与主DNS上做委派域时要一致
 
 ![](/windows/win2008R2/appserver/image/dns-41.png)
 
+###### 12. 新建一个A记录
+
 ![](/windows/win2008R2/appserver/image/dns-42.png)
 
+###### 13. `名称`输入`www`,`IP地址`随意输入
+
 ![](/windows/win2008R2/appserver/image/dns-43.png)
+
+###### 14. 测试成功
 
 ![](/windows/win2008R2/appserver/image/dns-44.png)
 
