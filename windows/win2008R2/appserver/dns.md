@@ -88,6 +88,8 @@ DNS服务器,会缓存用户查询的域名,用来减轻公网DNS的负担和查
 
 ## 五. 配置反向查询
 
+###### 1. 默认情况下,使用`nslookup`,我们无法得知`默认服务器`的名称,就是因为没有配置`反向查询`
+
 ![](/windows/win2008R2/appserver/image/dns-30.png)
 
 ![](/windows/win2008R2/appserver/image/dns-24.png)
