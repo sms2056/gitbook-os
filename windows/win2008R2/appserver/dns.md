@@ -17,7 +17,7 @@
 
 ### a. 域名解析优先级
 
-1. hosts对应的地址
+1. hosts对应的地址(C:\Windows\System32\drivers\etc\hosts)
 2. 本地DNS服务器
 3. 公网DNS服务器
 
