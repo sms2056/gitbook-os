@@ -71,7 +71,21 @@
 
 ## 五. 配置反向查询
 
-## 六. 通过配置DNS服务器,组织客户端上指定网址
+## 六. 通过配置DNS服务器,阻止客户端上指定网址
+
+![](/windows/win2008R2/appserver/image/dns-17.png)
+
+![](/windows/win2008R2/appserver/image/dns-18.png)
+
+![](/windows/win2008R2/appserver/image/dns-19.png)
+
+![](/windows/win2008R2/appserver/image/dns-20.png)
+
+![](/windows/win2008R2/appserver/image/dns-21.png)
+
+![](/windows/win2008R2/appserver/image/dns-22.png)
+
+![](/windows/win2008R2/appserver/image/dns-23.png)
 
 ## 七. 使用`转发器`,使用户正常上网
 
