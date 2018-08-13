@@ -96,7 +96,7 @@ DNS服务器,会缓存用户查询的域名,用来减轻公网DNS的负担和查
 
 ![](/windows/win2008R2/appserver/image/dns-24.png)
 
-###### 3. 在`网络 ID(E)`中输入DNS服务器所在网段
+###### 3. 在`网络 ID(E)`中输入DNS服务器所在网段,下一步
 
 ![](/windows/win2008R2/appserver/image/dns-25.png)
 
