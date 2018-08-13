@@ -13,6 +13,15 @@
 |Vmware Workstation| 12以上 |
 |Windows server 2008| R2 standard,enterprise,datacenter|
 
+## 三. 基础知识
+
+### a. 域名解析优先级
+
+1. hosts对应的地址
+2. 本地DNS服务器
+3. 公网DNS服务器
+
+
 ## 三. 安装DNS服务器
 
 ###### 1. `服务器管理` --> `添加角色`
