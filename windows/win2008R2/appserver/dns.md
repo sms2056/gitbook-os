@@ -89,6 +89,8 @@
 
 ![](/windows/win2008R2/appserver/image/dns-20.png)
 
+###### 5. 在`名称`中输入`www`
+
 ![](/windows/win2008R2/appserver/image/dns-21.png)
 
 ![](/windows/win2008R2/appserver/image/dns-22.png)
