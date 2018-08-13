@@ -92,7 +92,11 @@ DNS服务器,会缓存用户查询的域名,用来减轻公网DNS的负担和查
 
 ![](/windows/win2008R2/appserver/image/dns-30.png)
 
+###### 2. 在`DNS 管理器`中,右键点击`反向查询区域`,选择`新建区域`
+
 ![](/windows/win2008R2/appserver/image/dns-24.png)
+
+###### 3. 在`网络 ID(E)`中输入DNS服务器所在网段
 
 ![](/windows/win2008R2/appserver/image/dns-25.png)
 
