@@ -148,7 +148,11 @@ DNS服务器,会缓存用户查询的域名,用来减轻公网DNS的负担和查
 
 ## 七. 使用`转发器`,使用户上网
 
+###### 1. 在`DNS`管理器中,右键点击`DNS`选择`属性`
+
 ![](/windows/win2008R2/appserver/image/dns-14.png)
+
+###### 2. 找到转发器,点击编辑
 
 ![](/windows/win2008R2/appserver/image/dns-15.png)
 
