@@ -77,7 +77,11 @@
 
 ![](/windows/win2008R2/appserver/image/dns-17.png)
 
+###### 2. 在`DNS`管理器中,设置正向查询
+
 ![](/windows/win2008R2/appserver/image/dns-18.png)
+
+###### 3. `区域名称`输入`baidu.com`
 
 ![](/windows/win2008R2/appserver/image/dns-19.png)
 
