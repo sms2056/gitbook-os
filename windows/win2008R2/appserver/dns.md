@@ -29,7 +29,36 @@
 
 ## 四. 配置DNS服务器,使用户可以正常上网
 
-###### 1. 建立`正向查询`
+###### 1. 建立`正向查询`,打开`DNS管理器`,右键点击`正向查找区域`,选择`新建区域`
+
+![](/windows/win2008R2/appserver/image/dns-4.png)
+
+###### 2. 在`区域类型`中,选择`主要区域`
+
+![](/windows/win2008R2/appserver/image/dns-5.png)
+
+###### 3. 输入要创建的`域名`,如:`sms2056`
+
+![](/windows/win2008R2/appserver/image/dns-6.png)
+
+![](/windows/win2008R2/appserver/image/dns-7.png)
+
+![](/windows/win2008R2/appserver/image/dns-8.png)
+
+![](/windows/win2008R2/appserver/image/dns-9.png)
+
+![](/windows/win2008R2/appserver/image/dns-10.png)
+
+![](/windows/win2008R2/appserver/image/dns-11.png)
+
+![](/windows/win2008R2/appserver/image/dns-12.png)
+
+![](/windows/win2008R2/appserver/image/dns-13.png)
+
+
+
+
+
 
 
 
