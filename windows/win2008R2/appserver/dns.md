@@ -93,6 +93,8 @@
 
 ![](/windows/win2008R2/appserver/image/dns-21.png)
 
+###### 6. 设置完成
+
 ![](/windows/win2008R2/appserver/image/dns-22.png)
 
 ![](/windows/win2008R2/appserver/image/dns-23.png)
