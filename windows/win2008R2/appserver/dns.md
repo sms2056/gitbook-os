@@ -156,6 +156,8 @@ DNS服务器,会缓存用户查询的域名,用来减轻公网DNS的负担和查
 
 ![](/windows/win2008R2/appserver/image/dns-15.png)
 
+###### 3. 输入所熟知的公网DNS服务器IP地址
+
 ![](/windows/win2008R2/appserver/image/dns-16.png)
 
 ![](/windows/win2008R2/appserver/image/dns-17.png)
