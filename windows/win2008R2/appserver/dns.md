@@ -166,6 +166,36 @@ DNS服务器,会缓存用户查询的域名,用来减轻公网DNS的负担和查
 
 ## 八.通过委派DNS服务,实现客户端上网
 
+###### 1. 两台DNS服务器,一台用作主DNS,一台用作委派DNS
+
+![](/windows/win2008R2/appserver/image/dns-31.png)
+
+![](/windows/win2008R2/appserver/image/dns-32.png)
+
+![](/windows/win2008R2/appserver/image/dns-33.png)
+
+![](/windows/win2008R2/appserver/image/dns-34.png)
+
+![](/windows/win2008R2/appserver/image/dns-35.png)
+
+![](/windows/win2008R2/appserver/image/dns-36.png)
+
+![](/windows/win2008R2/appserver/image/dns-37.png)
+
+![](/windows/win2008R2/appserver/image/dns-38.png)
+
+![](/windows/win2008R2/appserver/image/dns-39.png)
+
+![](/windows/win2008R2/appserver/image/dns-40.png)
+
+![](/windows/win2008R2/appserver/image/dns-41.png)
+
+![](/windows/win2008R2/appserver/image/dns-42.png)
+
+![](/windows/win2008R2/appserver/image/dns-43.png)
+
+![](/windows/win2008R2/appserver/image/dns-44.png)
+
 ## 九.其他实验(不在本手册中实验)
 
 ###### 1. 建立别名
