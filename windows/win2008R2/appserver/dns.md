@@ -85,6 +85,8 @@
 
 ![](/windows/win2008R2/appserver/image/dns-19.png)
 
+###### 4. 在`新建区域`中,建立A记录,也就是`新建主机(A 或AAAAA)(S)...`
+
 ![](/windows/win2008R2/appserver/image/dns-20.png)
 
 ![](/windows/win2008R2/appserver/image/dns-21.png)
