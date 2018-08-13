@@ -97,6 +97,8 @@
 
 ![](/windows/win2008R2/appserver/image/dns-22.png)
 
+###### 7. 清除DNS缓存,发现`www.baidu.com`不能正常访问
+
 ![](/windows/win2008R2/appserver/image/dns-23.png)
 
 ## 七. 使用`转发器`,使用户正常上网
