@@ -49,9 +49,11 @@
 
 ![](/windows/win2008R2/appserver/image/dns-8.png)
 
-###### 6. `区域文件`创建完成,右键点击所创建的`区域文件`
+###### 6. `区域文件`创建完成,右键点击所创建的`区域文件`,选择`新建主机(A或AAAA)(S)...`
 
 ![](/windows/win2008R2/appserver/image/dns-9.png)
+
+###### 7. 在`名称`中输入`www`,`IP地址`为目标IP地址,创建`相关的指针(PTR)记录`可以不用选择
 
 ![](/windows/win2008R2/appserver/image/dns-10.png)
 
