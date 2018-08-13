@@ -89,7 +89,7 @@
 
 ![](/windows/win2008R2/appserver/image/dns-20.png)
 
-###### 5. 在`名称`中输入`www`
+###### 5. 在`名称`中输入`www`,发现`完整限定的域名`为`www.baidu.com`,在`IP地址`处设置为回环地址'127.0.0.1'
 
 ![](/windows/win2008R2/appserver/image/dns-21.png)
 
