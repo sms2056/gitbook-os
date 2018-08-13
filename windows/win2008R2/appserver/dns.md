@@ -15,3 +15,13 @@
 
 ## 三. 安装DNS服务器
 
+###### 1. `服务器管理` --> `添加角色`
+
+![](/windows/win2008R2/appserver/image/dns-1.png)
+
+![](/windows/win2008R2/appserver/image/dns-2.png)
+
+![](/windows/win2008R2/appserver/image/dns-3.png)
+
+
+
