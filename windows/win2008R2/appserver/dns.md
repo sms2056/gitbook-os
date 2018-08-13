@@ -104,7 +104,11 @@ DNS服务器,会缓存用户查询的域名,用来减轻公网DNS的负担和查
 
 ![](/windows/win2008R2/appserver/image/dns-26.png)
 
+###### 5. 在`新建的查询区域`鼠标右击,选择`新建指针(PTR)(P)`
+
 ![](/windows/win2008R2/appserver/image/dns-27.png)
+
+###### 6. 在`主机IP地址(P)`输入DNS服务器IP地址,在主机名(H)中输入自己想要的主机名称
 
 ![](/windows/win2008R2/appserver/image/dns-28.png)
 
