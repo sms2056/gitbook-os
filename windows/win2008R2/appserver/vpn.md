@@ -32,3 +32,7 @@
 
 ![](/windows/win2008R2/appserver/image/vpn-16.png)
 
+![](/windows/win2008R2/appserver/image/vpn-14.png)
+
+
+
