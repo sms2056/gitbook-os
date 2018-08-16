@@ -24,7 +24,7 @@
             * [7. Windows server 2008 R2 网络负载均衡NLB](windows/win2008R2/appserver/nlb.md)
             * [8. Windows server 2008 R2 故障转移群集](windows/win2008R2/appserver/clusterMigration.md)
             * [9. Windows server 2008 R2 Windows部署服务(WDS)](windows/win2008R2/appserver/wds.md)
-            * [10. Windows server 2008 R2 Windows部署服务(WDS)](windows/win2008R2/appserver/vpn.md)
+            * [10. Windows server 2008 R2 Windows部署VPN服务(WDS)](windows/win2008R2/appserver/vpn.md)
             * [11. Windows server 2008 R2 基础综合试题](windows/win2008R2/appserver/baseProblem.md)
         * [2008活动目录](windows/win2008R2/serverAD/readme.md)
             * [1. Windows server 2008 R2 创建AD域](windows/win2008R2/serverAD/createAD.md)
