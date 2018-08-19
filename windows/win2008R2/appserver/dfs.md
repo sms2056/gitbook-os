@@ -166,6 +166,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-31.png)
 
+###### 14. 在`DFS 复制`安装完成后,点击刚刚添加的文件夹映射,找到最右边的`复制文件夹`
+
 ![](/windows/win2008R2/appserver/image/dfs-32.png)
 
 ![](/windows/win2008R2/appserver/image/dfs-33.png)
