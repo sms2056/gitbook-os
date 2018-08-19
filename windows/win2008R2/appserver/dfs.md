@@ -182,6 +182,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-35.png)
 
+###### 18. 在'复制组计划和宽带'中选择`默认`就可以
+
 ![](/windows/win2008R2/appserver/image/dfs-36.png)
 
 ![](/windows/win2008R2/appserver/image/dfs-37.png)
