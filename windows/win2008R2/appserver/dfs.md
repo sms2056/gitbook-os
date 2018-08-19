@@ -57,20 +57,23 @@ DFS复制服务,使用一个称为`远程差异压缩(Remote Differential Compre
 
 ###### 1. 所有服务器和客户端,都必须加入到域 
 
-```
-Windows server 2008 R2 DC-1:
-DC(主控)
+Windows server 2008 R2 DC-1:DC(主控)
 
-Windows server 2008 R2 DC-2:
-域内服务器
+![](/windows/win2008R2/appserver/image/dfs-5.png)
 
-Windows server 2008 R2 DC-3:
-域内服务器
+Windows server 2008 R2 DC-2:域内服务器
 
-Windows 7:
-域内客户端
+![](/windows/win2008R2/appserver/image/dfs-6.png)
 
-```
+Windows server 2008 R2 DC-3:域内服务器
+
+![](/windows/win2008R2/appserver/image/dfs-7.png)
+
+Windows 7:域内客户端
+
+![](/windows/win2008R2/appserver/image/dfs-8.png)
+
+
 
 
 
