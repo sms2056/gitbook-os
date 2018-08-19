@@ -132,9 +132,15 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-22.png)
 
+###### 6. `命名空间`创建完成
+
 ![](/windows/win2008R2/appserver/image/dfs-23.png)
 
+###### 7. 点击刚刚创建的`命名空间`,选择最右面的`新建文件夹`
+
 ![](/windows/win2008R2/appserver/image/dfs-24.png)
+
+###### 8. 在名称中填写'file',点击添加,输入两个共享文件服务中的`UNC`路径
 
 ![](/windows/win2008R2/appserver/image/dfs-25.png)
 
