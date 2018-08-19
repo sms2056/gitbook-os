@@ -156,6 +156,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-28.png)
 
+###### 12. 出现报错,说明两个共享服务器中没有安装`DFS 复制`
+
 ![](/windows/win2008R2/appserver/image/dfs-29.png)
 
 ![](/windows/win2008R2/appserver/image/dfs-30.png)
