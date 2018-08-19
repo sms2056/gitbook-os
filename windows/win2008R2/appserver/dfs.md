@@ -186,6 +186,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-36.png)
 
+###### 19. 设置完成
+
 ![](/windows/win2008R2/appserver/image/dfs-37.png)
 
 ![](/windows/win2008R2/appserver/image/dfs-38.png)
