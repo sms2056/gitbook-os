@@ -42,3 +42,13 @@ DFS复制服务,使用一个称为`远程差异压缩(Remote Differential Compre
 
 ![](/windows/win2008R2/appserver/image/dfs-2.png)
 
+## 6. 实验手册
+
+![](/windows/win2008R2/appserver/image/dfs-1.png)
+
+![](/windows/win2008R2/appserver/image/dfs-3.png)
+
+![](/windows/win2008R2/appserver/image/dfs-4.png)
+
+
+
