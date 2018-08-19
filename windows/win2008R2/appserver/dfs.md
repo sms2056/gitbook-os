@@ -111,6 +111,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-17.png)
 
+### d. 设置DC服务器中的'DFS 命名空间',来关联另外两台服务器
+
 
 
 
