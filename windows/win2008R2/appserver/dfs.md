@@ -116,7 +116,7 @@ Windows 7:域内客户端
 ###### 1. 打开'DFS Management'
 ![](/windows/win2008R2/appserver/image/dfs-18.png)
 
-###### 2. 
+###### 2. 点击`命名空间`,在最右侧找到`创建命名空间...`
 
 ![](/windows/win2008R2/appserver/image/dfs-19.png)
 
