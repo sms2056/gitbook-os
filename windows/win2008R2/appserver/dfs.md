@@ -178,6 +178,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-34.png)
 
+###### 17. 在`拓扑选择`中选择`交错`
+
 ![](/windows/win2008R2/appserver/image/dfs-35.png)
 
 ![](/windows/win2008R2/appserver/image/dfs-36.png)
