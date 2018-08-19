@@ -160,6 +160,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-29.png)
 
+###### 13. 安装'DSF复制'
+
 ![](/windows/win2008R2/appserver/image/dfs-30.png)
 
 ![](/windows/win2008R2/appserver/image/dfs-31.png)
