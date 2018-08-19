@@ -13,3 +13,7 @@
 |Vmware Workstation| 12以上 |
 |Windows server 2008| R2 standard,enterprise,datacenter|
 
+## 三. 概述
+
+f分布式文件系统(Distributed File System, DFS)可以提高文件的访问效率,提高文件的可用性和减轻服务器的负担
+
