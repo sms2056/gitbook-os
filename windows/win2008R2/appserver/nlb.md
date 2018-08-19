@@ -8,9 +8,14 @@
 
 ## 二. 实验环境
 
-|软件|版本|
-|----|----|
-|Vmware Workstation| 12以上 |
-|Windows server 2008| R2 standard,enterprise,datacenter|
+|软件|版本|备注
+|----|----|----|
+|Vmware Workstation| 12以上 ||
+|Windows server 2008| R2 standard,enterprise,datacenter|web server + NLB|
+|Windows server 2008| R2 standard,enterprise,datacenter|web server + NLB|
+|Windows 7| 旗舰版 | 浏览端 |
+
+
+
 
 
