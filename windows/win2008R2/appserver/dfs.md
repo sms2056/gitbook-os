@@ -14,7 +14,7 @@
 |Windows server 2008 DC1(DC和命名空间服务器)| R2 standard,enterprise,datacenter|
 |Windows server 2008 DC2(域内主机和DFS复制服务器)| R2 standard,enterprise,datacenter|
 |Windows server 2008 DC3(域内主机和DFS复制服务器)| R2 standard,enterprise,datacenter|
-|Windows 7(客户机)| R2 standard,enterprise,datacenter|
+|Windows 7(客户机)| 企业版/专业版|
 
 
 
