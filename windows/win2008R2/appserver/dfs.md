@@ -116,16 +116,51 @@ Windows 7:域内客户端
 ###### 1. 打开'DFS Management'
 ![](/windows/win2008R2/appserver/image/dfs-18.png)
 
+###### 2. 
 
+![](/windows/win2008R2/appserver/image/dfs-19.png)
 
+![](/windows/win2008R2/appserver/image/dfs-20.png)
 
+![](/windows/win2008R2/appserver/image/dfs-21.png)
 
+![](/windows/win2008R2/appserver/image/dfs-22.png)
 
+![](/windows/win2008R2/appserver/image/dfs-23.png)
 
+![](/windows/win2008R2/appserver/image/dfs-24.png)
 
+![](/windows/win2008R2/appserver/image/dfs-25.png)
 
+![](/windows/win2008R2/appserver/image/dfs-26.png)
 
+![](/windows/win2008R2/appserver/image/dfs-27.png)
 
+![](/windows/win2008R2/appserver/image/dfs-28.png)
+
+![](/windows/win2008R2/appserver/image/dfs-29.png)
+
+![](/windows/win2008R2/appserver/image/dfs-30.png)
+
+![](/windows/win2008R2/appserver/image/dfs-31.png)
+
+![](/windows/win2008R2/appserver/image/dfs-32.png)
+
+![](/windows/win2008R2/appserver/image/dfs-33.png)
+
+![](/windows/win2008R2/appserver/image/dfs-34.png)
+
+![](/windows/win2008R2/appserver/image/dfs-35.png)
+
+![](/windows/win2008R2/appserver/image/dfs-36.png)
+
+![](/windows/win2008R2/appserver/image/dfs-37.png)
+
+![](/windows/win2008R2/appserver/image/dfs-38.png)
+
+![](/windows/win2008R2/appserver/image/dfs-39.png)
+
+![](/windows/win2008R2/appserver/image/dfs-40.png)
 
 
 
