@@ -201,3 +201,16 @@ Windows 7:域内客户端
 
 ###### 1. 对共享进行磁盘映射
 
+![](/windows/win2008R2/appserver/image/dfs-40.png)
+
+###### 2. 在客户端写入一个文件
+
+![](/windows/win2008R2/appserver/image/dfs-41.png)
+
+
+![](/windows/win2008R2/appserver/image/dfs-42.png)
+
+
+![](/windows/win2008R2/appserver/image/dfs-43.png)
+
+
