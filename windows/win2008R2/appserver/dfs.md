@@ -15,5 +15,5 @@
 
 ## 三. 概述
 
-分布式文件系统(Distributed File System, DFS)可以提高文件的访问效率,提高文件的可用性和减轻服务器的负担
+`分布式文件系统(Distributed File System, DFS)`可以提高文件的访问效率,提高文件的可用性和减轻服务器的负担
 
