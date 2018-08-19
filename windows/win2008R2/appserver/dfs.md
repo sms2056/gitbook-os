@@ -148,7 +148,11 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-26.png)
 
+###### 10. 添加文件夹并进行指向,设置完成
+
 ![](/windows/win2008R2/appserver/image/dfs-27.png)
+
+###### 11. 点击刚刚添加的文件夹映射,找到最右边的`复制文件夹`
 
 ![](/windows/win2008R2/appserver/image/dfs-28.png)
 
