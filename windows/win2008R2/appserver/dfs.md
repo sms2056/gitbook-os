@@ -103,6 +103,14 @@ Windows 7:域内客户端
 
 ###### 2. 分别设置同名文件夹的共享,文件夹权限为`任何人`--> `可读可写`
 
+![](/windows/win2008R2/appserver/image/dfs-15.png)
+
+![](/windows/win2008R2/appserver/image/dfs-16.png)
+
+###### 3. 在其中一台`windows server 2008 R2-DC-2`中的共享文件夹内添加一些文件
+
+![](/windows/win2008R2/appserver/image/dfs-17.png)
+
 
 
 
