@@ -27,6 +27,42 @@
 
 ![](/windows/win2008R2/appserver/image/nlb-3.png)
 
+### b. 配置dc-1的web服务器为主要负载均衡
+
+![](/windows/win2008R2/appserver/image/nlb-4.png)
+
+![](/windows/win2008R2/appserver/image/nlb-5.png)
+
+![](/windows/win2008R2/appserver/image/nlb-6.png)
+
+![](/windows/win2008R2/appserver/image/nlb-7.png)
+
+![](/windows/win2008R2/appserver/image/nlb-8.png)
+
+![](/windows/win2008R2/appserver/image/nlb-9.png)
+
+![](/windows/win2008R2/appserver/image/nlb-10.png)
+
+![](/windows/win2008R2/appserver/image/nlb-11.png)
+
+![](/windows/win2008R2/appserver/image/nlb-12.png)
+
+![](/windows/win2008R2/appserver/image/nlb-13.png)
+
+![](/windows/win2008R2/appserver/image/nlb-14.png)
+
+![](/windows/win2008R2/appserver/image/nlb-15.png)
+
+![](/windows/win2008R2/appserver/image/nlb-16.png)
+
+![](/windows/win2008R2/appserver/image/nlb-17.png)
+
+![](/windows/win2008R2/appserver/image/nlb-18.png)
+
+![](/windows/win2008R2/appserver/image/nlb-19.png)
+
+
+
 
 
 
