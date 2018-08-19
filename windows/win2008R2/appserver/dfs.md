@@ -120,9 +120,11 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-19.png)
 
-###### 3. 在命名空间服务器的`服务器`中填入`DC`服务器的名字
+###### 3. 在命名空间服务器的`服务器`中填入`DC`服务器的名字,下一步
 
 ![](/windows/win2008R2/appserver/image/dfs-20.png)
+
+###### 4. 在`命名空间名称和设置`中填写一个`名称`
 
 ![](/windows/win2008R2/appserver/image/dfs-21.png)
 
