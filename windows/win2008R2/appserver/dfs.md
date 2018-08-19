@@ -197,5 +197,7 @@ Windows 7:域内客户端
 ![](/windows/win2008R2/appserver/image/dfs-39.png)
 
 
+### e. 设置Win 7客户端访问共享服务器
+
 
 
