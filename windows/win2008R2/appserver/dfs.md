@@ -87,6 +87,10 @@ Windows 7:域内客户端
 
 ###### 5. DC端设置DFS命名服务器设置完成
 
+![](/windows/win2008R2/appserver/image/dfs-12.png)
+
+
+
 
 
 
