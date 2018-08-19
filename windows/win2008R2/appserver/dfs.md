@@ -174,6 +174,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-33.png)
 
+###### 16. 在`主要成员`中选择有`文件`的`共享文件服务器`,也就是dc2
+
 ![](/windows/win2008R2/appserver/image/dfs-34.png)
 
 ![](/windows/win2008R2/appserver/image/dfs-35.png)
