@@ -59,8 +59,6 @@
 
 ![](/windows/win2008R2/appserver/image/nlb-18.png)
 
-![](/windows/win2008R2/appserver/image/nlb-19.png)
-
 
 
 
