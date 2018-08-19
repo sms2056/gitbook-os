@@ -77,19 +77,19 @@ Windows 7:域内客户端
 
 ### b. 设置DC端,添加`DFS 命名空间`角色
 
-###### 2. 为DC-1中安装`文件服务器`
+###### 1. 为DC-1中安装`文件服务器`
 
 ![](/windows/win2008R2/appserver/image/dfs-9.png)
 
-###### 3. 在`角色服务`中选择`分布式文件系统` --> 'DFS 命名空间'
+###### 2. 在`角色服务`中选择`分布式文件系统` --> 'DFS 命名空间'
 
 ![](/windows/win2008R2/appserver/image/dfs-10.png)
 
-###### 4. 在设置`DFS 命名空间`中选择'以后使用服务器管理器中的......'
+###### 3. 在设置`DFS 命名空间`中选择'以后使用服务器管理器中的......'
 
 ![](/windows/win2008R2/appserver/image/dfs-11.png)
 
-###### 5. DC端设置DFS命名服务器设置完成
+###### 4. DC端设置DFS命名服务器设置完成
 
 ![](/windows/win2008R2/appserver/image/dfs-12.png)
 
