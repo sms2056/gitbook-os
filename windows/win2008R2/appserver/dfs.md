@@ -93,6 +93,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-12.png)
 
+### b. 设置域内其他服务器,作为`文件服务器`和`DFS 复制`服务器
+
 
 
 
