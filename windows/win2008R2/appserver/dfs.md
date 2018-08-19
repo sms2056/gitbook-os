@@ -211,6 +211,7 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-42.png)
 
+###### 4. 在服务器端可以看到连接的会话
 
 ![](/windows/win2008R2/appserver/image/dfs-43.png)
 
