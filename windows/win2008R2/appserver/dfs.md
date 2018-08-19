@@ -128,6 +128,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-21.png)
 
+###### 5. 在`命名空间类型`中选择'基于域的命名空间'
+
 ![](/windows/win2008R2/appserver/image/dfs-22.png)
 
 ![](/windows/win2008R2/appserver/image/dfs-23.png)
