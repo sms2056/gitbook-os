@@ -11,9 +11,9 @@
 |软件|版本|
 |----|----|
 |Vmware Workstation| 12以上 |
-|Windows server 2008 DC1| R2 standard,enterprise,datacenter|
-|Windows server 2008 DC2| R2 standard,enterprise,datacenter|
-|Windows server 2008 DC3| R2 standard,enterprise,datacenter|
+|Windows server 2008 DC1(DC和命名空间服务器)| R2 standard,enterprise,datacenter|
+|Windows server 2008 DC2(域内主机和DFS复制服务器)| R2 standard,enterprise,datacenter|
+|Windows server 2008 DC3域内主机和DFS复制服务器| R2 standard,enterprise,datacenter|
 |Windows 7| R2 standard,enterprise,datacenter|
 
 
