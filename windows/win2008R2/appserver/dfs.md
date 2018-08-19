@@ -22,10 +22,11 @@ Windows Server 2008 R2是通过`文件服务`角色内的`DFS命名空间`和`DF
 
 ![](/windows/win2008R2/appserver/image/dfs-1.png)
 
-DFS命名空间(DFS Namespace)
+### 1. DFS命名空间(DFS Namespace)
 通过`DFS命名空间`将位于不同服务器内的共享文件夹组合在一起,并以一个虚拟文件夹的树状结构显示给客户端.
 
 DFS命名空间分为两种:
 1. 域命名空间
 2. 独立命名空间
 
+命名空间根目录(Namespace Root)
