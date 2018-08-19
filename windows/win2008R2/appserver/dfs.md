@@ -97,6 +97,14 @@ Windows 7:域内客户端
 
 ###### 1. 添加角色为'DFS 复制'
 
+![](/windows/win2008R2/appserver/image/dfs-13.png)
+
+![](/windows/win2008R2/appserver/image/dfs-14.png)
+
+###### 2. 分别设置同名文件夹的共享
+
+
+
 
 
 
