@@ -207,6 +207,7 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-41.png)
 
+###### 3. 服务器端进行了相应的同步
 
 ![](/windows/win2008R2/appserver/image/dfs-42.png)
 
