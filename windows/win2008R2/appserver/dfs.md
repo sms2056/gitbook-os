@@ -144,6 +144,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-25.png)
 
+###### 9. 在`复制`提示栏中,选择`否`
+
 ![](/windows/win2008R2/appserver/image/dfs-26.png)
 
 ![](/windows/win2008R2/appserver/image/dfs-27.png)
