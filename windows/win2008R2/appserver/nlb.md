@@ -23,6 +23,10 @@
 
 ### a. 配置两台服务,分配安装`IIS角色`和`负载均衡功能`
 
+![](/windows/win2008R2/appserver/image/nlb-2.png)
+
+![](/windows/win2008R2/appserver/image/nlb-3.png)
+
 
 
 
