@@ -75,6 +75,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-8.png)
 
+### b. 设置DC端,添加`DFS 命名空间`角色
+
 ###### 2. 为DC-1中安装`文件服务器`
 
 ![](/windows/win2008R2/appserver/image/dfs-9.png)
