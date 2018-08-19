@@ -170,6 +170,8 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-32.png)
 
+###### 15. 剩下操作按照'默认'完成
+
 ![](/windows/win2008R2/appserver/image/dfs-33.png)
 
 ![](/windows/win2008R2/appserver/image/dfs-34.png)
