@@ -113,6 +113,9 @@ Windows 7:域内客户端
 
 ### d. 设置DC服务器中的'DFS 命名空间',来关联另外两台服务器
 
+###### 1. 打开'DFS Management'
+![](/windows/win2008R2/appserver/image/dfs-18.png)
+
 
 
 
