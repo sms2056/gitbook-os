@@ -20,3 +20,5 @@
 ## 四. DFS的一般架构
 Windows Server 2008 R2是通过`文件服务`角色内的`DFS命名空间`和`DFS复制`这两个服务来创建DFS的
 
+![](/windows/win2008R2/appserver/image/dfs-1.png)
+
