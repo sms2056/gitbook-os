@@ -81,7 +81,7 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-10.png)
 
-###### 4. 
+###### 4. 在设置`DFS 命名空间`中选择'以后使用服务器管理器中的......'
 
 ![](/windows/win2008R2/appserver/image/dfs-11.png)
 
