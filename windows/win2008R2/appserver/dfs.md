@@ -29,4 +29,4 @@ DFS命名空间分为两种:
 1. 域命名空间
 2. 独立命名空间
 
-命名空间根目录(Namespace Root)
+### 2. 命名空间根目录(Namespace Root)
