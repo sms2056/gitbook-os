@@ -160,7 +160,6 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-39.png)
 
-![](/windows/win2008R2/appserver/image/dfs-40.png)
 
 
 
