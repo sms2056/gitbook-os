@@ -73,15 +73,17 @@ Windows 7:域内客户端
 
 ![](/windows/win2008R2/appserver/image/dfs-8.png)
 
-###### 2. 为DC-1中安装`文件服务器` --> `分布式文件系统` --> `DFS 命名空间`
+###### 2. 为DC-1中安装`文件服务器`
 
 ![](/windows/win2008R2/appserver/image/dfs-9.png)
 
-![](/windows/win2008R2/appserver/image/dfs-10.png)
+
 
 ![](/windows/win2008R2/appserver/image/dfs-11.png)
 
+###### 3. 在`角色服务`中选择`分布式文件系统` --> 'DFS 命名空间'
 
+![](/windows/win2008R2/appserver/image/dfs-10.png)
 
 
 
