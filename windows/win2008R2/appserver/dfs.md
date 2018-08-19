@@ -11,7 +11,12 @@
 |软件|版本|
 |----|----|
 |Vmware Workstation| 12以上 |
-|Windows server 2008| R2 standard,enterprise,datacenter|
+|Windows server 2008 DC1| R2 standard,enterprise,datacenter|
+|Windows server 2008 DC2| R2 standard,enterprise,datacenter|
+|Windows server 2008 DC3| R2 standard,enterprise,datacenter|
+|Windows 7| R2 standard,enterprise,datacenter|
+
+
 
 ## 三. 概述
 
@@ -49,6 +54,8 @@ DFS复制服务,使用一个称为`远程差异压缩(Remote Differential Compre
 ![](/windows/win2008R2/appserver/image/dfs-3.png)
 
 ![](/windows/win2008R2/appserver/image/dfs-4.png)
+
+
 
 
 
