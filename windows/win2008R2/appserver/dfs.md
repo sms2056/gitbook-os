@@ -37,3 +37,8 @@ DFS命名空间分为两种:
 
 ### 4. DFS复制(DFS Replication)
 DFS复制服务,使用一个称为`远程差异压缩(Remote Differential Compression,RDC)`的压缩计算技术,它能够检测文件有改动的地方,因此复制文件时,仅会复制有改动的区域,而不是整个文件,这对带宽有限的网络非常有用
+
+## 五. 复制拓扑
+
+![](/windows/win2008R2/appserver/image/dfs-2.png)
+
